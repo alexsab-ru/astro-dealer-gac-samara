@@ -15,7 +15,7 @@ on:
       - completed
   # Runs on pushes targeting the default branch
   push:
-    branches: ["delaer"]
+    branches: ["dealer"]
     paths-ignore:
       - '.github/scripts/sh/getAirStorage.sh'
       - '.github/scripts/sh/getDealerData.sh'
@@ -72,7 +72,7 @@ jobs:
 
     # Указываете окружение и его переменные
     environment:
-      name: ${{ github.ref == 'refs/heads/delaer' && 'production' || 'development' }}
+      name: ${{ github.ref == 'refs/heads/dealer' && 'production' || 'development' }}
 
     steps:
       - name: Checkout
