@@ -45,6 +45,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://gac.alexsab.ru',
+	site: 'https://gac-samara.ru',
 	base: "/"
 });
