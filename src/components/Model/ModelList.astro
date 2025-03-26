@@ -3,7 +3,7 @@ interface Props {
 	title?: string;
 	classes?: string;
 }
-const {title = 'Модельный ряд', classes} = Astro.props;
+const {title = 'Модельный ряд', classes, ...rest} = Astro.props;
 import ModelItem from './Item.astro';
 import { groupArrayByKey } from '@/js/utils/groupArrayByKey';
 import models from '@/data/models.json';
@@ -13,7 +13,7 @@ const groupModelsByBrand = groupArrayByKey(filteredModels, 'mark_id');
 
 {
 	Object.keys(groupModelsByBrand).length > 0 && (
-		<section class={`models py-10 sm:py-20 ${classes}`}>
+		<section class={`models py-10 sm:py-20 ${classes}`} {...rest}>
 			<div class="container">
 				{title && (
 					<h2 class="text-center font-medium mobile-title-size sm:text-4xl mb-8 sm:mb-14">
