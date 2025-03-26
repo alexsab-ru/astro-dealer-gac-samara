@@ -57,7 +57,7 @@ import Reviews from '@/components/Reviews/Index.astro';
 
 	{ false && models.length > 0 && models.filter(m => m.show).map(model => ( <Model model={model} /> ))}
 
-	<Callback bgUrl="https://cdn.alexsab.ru/b/gac/img/main-sliders/xNA73h__avn4.webp" title="Запишитесь на тест-драйв!" subtitle="Пройдите тест-драйв на интересном маршруте" formName="Секция. Запись на тест-драйв" id="test-drive" />
+	<Callback bgUrl="https://cdn.alexsab.ru/b/gac/img/main-sliders/xNA73h__avn4.webp" title="Запишитесь на тест-драйв!" subtitle="Пройдите тест-драйв на интересном маршруте" formName="Секция. Запись на тест-драйв" id="test-drive" class="section" />
 
 	{cars.length > 0 && (
 		<section class="section bg-gray-100" id="cars">
@@ -85,7 +85,7 @@ import Reviews from '@/components/Reviews/Index.astro';
 		</div>
 	</section>
 
-	<Reviews items={reviews} title="Отзывы наших клиентов" />
+	<Reviews items={reviews} title="Отзывы наших клиентов" class="section" />
 
 	<SeoText mdx="index" />
 
