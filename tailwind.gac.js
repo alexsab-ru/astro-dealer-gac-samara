@@ -16,7 +16,7 @@ module.exports = {
 				},
 			},
 			fontFamily: {
-				...baseConfig.theme.extend.fontFamily
+				'sans': ['Montserrat', ...defaultTheme.fontFamily.sans],
 			},
 		},
 	},
