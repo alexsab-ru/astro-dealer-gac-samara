@@ -107,7 +107,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 
 Не упустите шанс купить свой GAC по лучшим условиям в Самаре!
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
-		<Price>2549000</Price>
+		<Price>2599000</Price>
 		<TradeinDiscount>250000</TradeinDiscount>
 		<CreditDiscount>300000</CreditDiscount>
 		<InsuranceDiscount>160000</InsuranceDiscount>
@@ -711,8 +711,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>2449000</Price>
 		<TradeinDiscount>350000</TradeinDiscount>
 		<CreditDiscount>300000</CreditDiscount>
-		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>800000</MaxDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>650000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L2XR3087165/2902760c9ae88e61d8e99bdbaa94b41c.jpg" />

@@ -83,7 +83,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2549000</price>
+			<price>2599000</price>
 			<credit_discount>300000</credit_discount>
 			<insurance_discount>160000</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -139,7 +139,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3089047/259e203d5d57bd6b9c409a653c5839e0.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3089047/b259632d92a3ae729fc77995deecf132.jpeg</image>
 			</images>
-		<max_discount>710000</max_discount><priceWithDiscount>1839000</priceWithDiscount><sale_price>1839000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
+		<max_discount>710000</max_discount><priceWithDiscount>1889000</priceWithDiscount><sale_price>1889000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<unique_id>06f5345ccbcd72e688ffdaedd0abe994</unique_id>
 			<mark_id>GAC</mark_id>
@@ -646,7 +646,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<year>2024</year>
 			<price>2349000</price>
 			<credit_discount>300000</credit_discount>
-			<insurance_discount>150000</insurance_discount>
+			<insurance_discount>0</insurance_discount>
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -699,7 +699,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 				<image>https://photo.toyotasever.ru/LMGHT1L2XR3087165/1ad0b4ba6cdbfbd020a06463a6461891.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L2XR3087165/ca9085e07bf7b25b8b6b39c4ae538887.jpg</image>
 			</images>
-		<max_discount>800000</max_discount><priceWithDiscount>1549000</priceWithDiscount><sale_price>1549000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-белый-2024/</url></car>
+		<max_discount>650000</max_discount><priceWithDiscount>1699000</priceWithDiscount><sale_price>1699000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-белый-2024/</url></car>
 		<car>
 			<unique_id>602efd5b81d7706be5372b75012a0fef</unique_id>
 			<mark_id>GAC</mark_id>
