@@ -849,7 +849,20 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<InsuranceDiscount>100000</InsuranceDiscount>
 		<MaxDiscount>450000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/b680ad6ae37d717a4e17c35fc5ed4693.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/4cf98a3cb85f3be6a55aa827c29cacb2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/272afc3e036e8934a963e705bbffc025.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/22e6cc77ef900a082089b4844f7b9312.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/7cb60f29c4797b1194a8dd614884e822.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/fcd2a58050792e1d58934b58391c0b0a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/5be6ae234f31b24abeecb3a4c6ac0bdd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/d084c7bfcfd2ea390ac5198170b19754.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/72eb0a6ed4b95dd99b91256a4bf359f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/209b46d00bd57bd0261ae1d70ee413cc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/b2bb40f7e2ea0c9d43e136fa7cfc279c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAT1L55S1359165/c7886d31c27edadccbed95dc3ade7a3d.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS4</Model>
 		<GenerationId>22337985</GenerationId>
