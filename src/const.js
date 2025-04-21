@@ -26,8 +26,14 @@ export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
 export const LINK_WIDGET_ORGNIZATION = '';
 // Ссылки под хедером
+import { groupArrayByKey } from '@/js/utils/groupArrayByKey';
 import modelsData from '@/data/models.json';
-const models = modelsData.filter(model => model.show);
+const groupModelsByBrand = groupArrayByKey(modelsData.filter(model => model.show), 'mark_id');
+const children = Object.keys(groupModelsByBrand).reduce((acc, key) => {
+	acc[key] = groupModelsByBrand[key].map(model => ( { url: `models/${model.id}/`, name: `${model.name.toUpperCase()}`, thumb: model.thumb } ) );
+	return acc;
+}, {});
+
 export const LINKS_MENU = [
 	// {url: 'catalog/', name: 'Каталог'},
 	// {url: 'used_cars/', name: 'Авто с пробегом'},
