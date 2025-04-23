@@ -699,8 +699,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<run>1</run>
 			<year>2024</year>
 			<price>2999000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>110000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -753,7 +753,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 				<image>https://photo.toyotasever.ru/LMGAT1L55S1359165/b2bb40f7e2ea0c9d43e136fa7cfc279c.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGAT1L55S1359165/c7886d31c27edadccbed95dc3ade7a3d.jpg</image>
 			</images>
-		<max_discount>450000</max_discount><priceWithDiscount>2549000</priceWithDiscount><sale_price>2549000</sale_price><url>https://gac-samara.ru/cars/gac-gs4-15-amt-170-лс-gb-черный-2024/</url></car>
+		<max_discount>510000</max_discount><priceWithDiscount>2489000</priceWithDiscount><sale_price>2489000</sale_price><url>https://gac-samara.ru/cars/gac-gs4-15-amt-170-лс-gb-черный-2024/</url></car>
 		<car>
 			<unique_id>2b1da3331475607df8bb499077f4db66</unique_id>
 			<mark_id>GAC</mark_id>
