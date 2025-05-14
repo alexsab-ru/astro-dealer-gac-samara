@@ -8,6 +8,7 @@ on:
       - '.github/scripts/sh/getAirStorage.sh'
       - '.github/scripts/sh/getDealerData.sh'
       - '.github/scripts/sh/getDealerStorage.sh'
+      - '.github/scripts/sh/getSortStorage.sh'
       - '.github/scripts/CarFeedProcessorCSV.py'
       - '.github/scripts/config_air_storage-friend.json'
       - '.github/scripts/config_air_storage.json'
@@ -63,9 +64,13 @@ jobs:
 
     - name: Install dependencies
       run: |
-          npm install -g pnpm
-          pnpm install --no-frozen-lockfile
-
+        npm install -g pnpm
+        pnpm install --no-frozen-lockfile
+        pnpm download_json -f settings.json
+      env:
+        JSON_PATH: ${{ secrets.JSON_PATH }}
+        DOMAIN: ${{ vars.DOMAIN }}
+    
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -76,6 +81,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests lxml pyyaml Pillow
+
 
     - name: Download CSV and generate cars.xml from csv
       if: ${{ vars.CSV_URL }}
@@ -92,6 +98,13 @@ jobs:
         pnpm run getAirStorage
       env:
         CSV_URL: ${{ vars.AIR_STORAGE_CSV_URL }}
+
+    - name: Get sort storage
+      if: ${{ vars.SORT_STORAGE_CSV_URL }}
+      run: |
+        pnpm run getSortStorage
+      env:
+        CSV_URL: ${{ vars.SORT_STORAGE_CSV_URL }}
 
     - name: Get Dealer JSON cars price
       if: ${{ vars.DEALER_PRICE_CSV_URL }}

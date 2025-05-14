@@ -3,7 +3,8 @@ import Layout from '@/layouts/Layout.astro';
 import Button from '@/components/Button/Button.astro';
 import { Icon } from 'astro-icon/components';
 import { phoneFormat } from '@/js/utils/numbers.format';
-import { PHONE, LEGAL_CITY_WHERE, SITE_NAME } from '@/const';
+import settings from '@/data/settings.json';
+const { site_name, legal_city_where, phone_common } = settings;
 const bannerImg = 'https://cdn.alexsab.ru/b/gac/img/service-and-warranty-banner.webp';
 
 import { files } from './files.json';
@@ -14,7 +15,7 @@ import models from '@/data/models.json';
 <Layout
 	h1="Сервис и гарантия"
 	title="Сервис и гарантия"
-	description={`На основные элементы автомобилей, GAC MOTOR | ${SITE_NAME} в ${LEGAL_CITY_WHERE}, кроме специфических и специально оговоренных, гарантийный период с момента продажи первому Владельцу составляет 5 лет или 150 000 км пробега, в зависимости от того, что наступит раньше.`}
+	description={`На основные элементы автомобилей, GAC MOTOR | ${site_name} в ${legal_city_where}, кроме специфических и специально оговоренных, гарантийный период с момента продажи первому Владельцу составляет 5 лет или 150 000 км пробега, в зависимости от того, что наступит раньше.`}
 	image={bannerImg}
 >
 
@@ -23,7 +24,7 @@ import models from '@/data/models.json';
 		<div class="container absolute top-0 left-1/2 -translate-x-1/2 py-10 xl:py-20">
 			<h1 class="text-3xl lg:text-6xl font-bold mb-2 lg:mb-5">Сервис и гарантия</h1>
 			<p class="mb-2 lg:mb-5 lg:text-xl">Запись на сервис по телефону для владельцев GAC</p>
-			<a class="whitespace-nowrap lg:text-2xl inline-block mb-5 lg:mb-10 font-bold" href={`tel:${phoneFormat(PHONE)}`}>{ PHONE }</a>
+			<a class="whitespace-nowrap lg:text-2xl inline-block mb-5 lg:mb-10 font-bold" href={`tel:${phoneFormat(phone_common)}`}>{ phone_common }</a>
 			<Button 
 				classes="popup-link w-fit block" 
 				url="#common-modal" 

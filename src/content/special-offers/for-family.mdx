@@ -14,7 +14,8 @@ import Button from '@/components/Button/Button.astro';
 import Timer from '@/components/Timer/Timer.astro';
 import CardMedia from '@/components/CardMedia/CardMedia.astro';
 import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 
 <picture>
