@@ -706,7 +706,22 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/1a0f337d59c153a7509b9b7312bba27b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/d276167ff4a90bb6078702d40351adac.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/78952b7ec5ac9e3344aa42a5a6d66590.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/fcf841d9cb73432b91ad0175d921c731.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/95a6bd6b73620b7b306e6b58e1c69397.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/5d2881c16b227f2d5e8265366b8f8a93.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/46cdb83041504874fe0bcbdb6c448a4f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/614315c0407fae5303a6e01b8f86fa41.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/c16ea80cc0958e4cea70381b18bef046.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/ab49606335339a0ca405742a4d899b6f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/404e8689c36e120859f85ae23147b8d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/a54185eadcd5037aa874dac6bca93025.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/a60864b48c83fee08b21c2694ac984ae.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G55R1045545/7c963f2bd0e2ee7279947edcc2f4889b.jpg</image>
+			</images>
 		<max_discount>810000</max_discount><priceWithDiscount>3289000</priceWithDiscount><sale_price>3289000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-черный-2024/</url></car>
 		<car>
 			<unique_id>b3ffbcb4e3090bb5205403d9d6d6f09b</unique_id>
@@ -1155,7 +1170,23 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 
 Цена указана с учетом установленного дополнительного оборудования.
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/3f536febd110e2d91a3a75138cf6a903.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/87f88f5696e0c280a44be8a2367039c8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/7f365ad89d3d9c0741786b9bbe39a105.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/4f63d55af00adc64ff6b92459168e8f1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/1fce08f7cba8fd3c3df3112bf9023dfc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/24467c0558449d964ce3792161df7335.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/67d5f5102065850aa98dc98ec7b24f25.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/0beae888385b589ac1bac8e1776b7b1a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/9dbb6e3779ded4aef1a0f6ac52fb4077.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/0dadf9b675cd3fbf9feca6bc4e60e3a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/6a97f82132c4f64db0086e303bda4af3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/0f0060f7f85adf09bfb142558e58fa83.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/e067f1aca11387f29dbee8eba51eed14.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/edeb66dedaed27a10269ff580b8751d4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1038520/1370db7913b95c751039803258c77700.jpeg</image>
+			</images>
 		<max_discount>810000</max_discount><priceWithDiscount>4039000</priceWithDiscount><sale_price>4039000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 	</cars>
 </data>
