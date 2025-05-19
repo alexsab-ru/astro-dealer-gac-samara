@@ -639,7 +639,17 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/2cb8fffeec828b664b1aee9f5ba83c61.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/8f71ad3ce2b4b748611dc29d7175a012.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/9281b04e5fe14eeb06671f89b56c5c54.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/e06b2e30ed421e7c04ac84f55ff6992d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/e74a4c1759754b4baff89e234b9c82ce.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/153dbc6c384ec5180706382a3e417833.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/9012c9315f89d06f55ad1741c9e15c58.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/d8101d581c9765cc62e485d53446b7aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/3a47c693b3a9b1305d8b83d885c2ba5a.jpeg</image>
+			</images>
 		<max_discount>510000</max_discount><priceWithDiscount>2489000</priceWithDiscount><sale_price>2489000</sale_price><url>https://gac-samara.ru/cars/gac-gs4-15-amt-170-лс-gb-черный-2024/</url></car>
 		<car>
 			<unique_id>7bfe0576ffe3c3899add993aa18d21ee</unique_id>
