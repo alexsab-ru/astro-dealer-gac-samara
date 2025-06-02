@@ -512,7 +512,22 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/87cd7ed2a9af11ed4179bc2adf83ab5d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/e8bdb155823663b50a66aee023059611.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/0030ed1b1b20c23b6bb0b3c755bbfaaa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/62d66ff2c028ba6241af2d2fb7a9a34a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/b84607a34338f7ed25aef356df827188.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/7538637ec0abb06d41fb613ceb7bd37b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/42dea773dba9e3fe6a39593913fbc8f1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/d2bdd3a2f68466f02de5c4c375a22e19.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/6d10b23ec6dbae4bfd9a0f08c36208dc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/61986839349e79f6bac962aa78b09f30.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/228cab1c5681b3a93d835584ccd7f9dc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/3d978ebf37057bbfa85dc73697e6f44d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/022494539b6f48ecb4787081edfd4c43.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3066203/81a6fa93e6a9a16af79353b9936bb98a.jpeg</image>
+			</images>
 		<max_discount>730000</max_discount><priceWithDiscount>1719000</priceWithDiscount><sale_price>1719000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-синий-2024/</url></car>
 		<car>
 			<unique_id>11cfb36fdbeb1d008a7fb5419959a89f</unique_id>
@@ -626,7 +641,12 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3064174/1366202b2a35667e8ac76882ea460c05.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3064174/70a416eacfbcef91fb2ea2a95218f537.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3064174/450c8b9fb132ad2836fe4488ea2ecdf3.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3064174/20995295839642bbe91e0f7ecb4750f3.jpg</image>
+			</images>
 		<max_discount>730000</max_discount><priceWithDiscount>1719000</priceWithDiscount><sale_price>1719000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
 			<unique_id>6717974819b15e234acbe1ab9ae30a51</unique_id>
@@ -683,7 +703,22 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/e1cc1e5cad46a07c546ff12f7ce9865f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/9f3df13a838ca6a8e44f695f0fe31fb9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/c696beb74aa75a29167cbfc6188129ef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/c809eb274f737f0264664e5cfe1d9b75.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/bf5bd0984a9d6d35f17c359acd48457e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/99249fc7818ec8a547070759806af72e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/66cc5335d962aa6ea21487c672a5b0c6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/59fd252930e0497abeb294ba05a9e6f6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/85c02467e39588fa13b76f821a194c97.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/19cc41985adffb0a53ac97e414e7448c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/82bfe8ef90925a4a97812329555032e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/de678bade4337204249310f4d9872cc5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/12aff0818072e05e3c65df34b25428d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L28R3079940/73d4417608f961ca6da5eab3d94a3a03.jpeg</image>
+			</images>
 		<max_discount>730000</max_discount><priceWithDiscount>1719000</priceWithDiscount><sale_price>1719000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-синий-2024/</url></car>
 		<car>
 			<unique_id>e2e28be304db254b075d9d83e0982147</unique_id>
@@ -880,15 +915,19 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/2cb8fffeec828b664b1aee9f5ba83c61.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/8f71ad3ce2b4b748611dc29d7175a012.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/9281b04e5fe14eeb06671f89b56c5c54.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/e06b2e30ed421e7c04ac84f55ff6992d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/e74a4c1759754b4baff89e234b9c82ce.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/153dbc6c384ec5180706382a3e417833.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/9012c9315f89d06f55ad1741c9e15c58.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/d8101d581c9765cc62e485d53446b7aa.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/3a47c693b3a9b1305d8b83d885c2ba5a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/594f14fb90d1bd0de890d50aae655153.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/fda7916f2a1d1526aaef438ffacb950a.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/ed98d48994b5eb408f6466d26cc09f15.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/1d9b18424e9c59523ced1bef44ea220b.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/bb9f8a9d032a3e665129efc9cc0e2a8e.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/c90d7edc477a3f25d2e39a39eb9f8406.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/29e4fe895652d70ba235f72766406c73.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/5a5e34edc02d51f60454fa98e8942bb6.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/610f18f1121cab64d14f98812dd585db.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/e33077b6a7e1d15e273ffa8010cb5e31.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/8529b723fe2c7df119261388eac0e88d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/af5c2b5aee653fc97907809b83b08b12.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGAT1L5XS1359159/f60652269fdc94a9bed06250d1d5d925.jpg</image>
 			</images>
 		<max_discount>510000</max_discount><priceWithDiscount>2489000</priceWithDiscount><sale_price>2489000</sale_price><url>https://gac-samara.ru/cars/gac-gs4-15-amt-170-лс-gb-черный-2024/</url></car>
 		<car>
