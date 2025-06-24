@@ -18,7 +18,7 @@
 			<credit_discount>180000</credit_discount>
 			<insurance_discount>100000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
-			<optional_discount>85000</optional_discount>
+			<optional_discount>90000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L50R3089047</vin>
 			<description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
@@ -76,7 +76,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3089047/259e203d5d57bd6b9c409a653c5839e0.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L50R3089047/b259632d92a3ae729fc77995deecf132.jpeg</image>
 			</images>
-		<max_discount>765000</max_discount><priceWithDiscount>1834000</priceWithDiscount><sale_price>1834000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
+		<max_discount>770000</max_discount><priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<unique_id>06f5345ccbcd72e688ffdaedd0abe994</unique_id>
 			<mark_id>GAC</mark_id>
@@ -95,7 +95,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<credit_discount>180000</credit_discount>
 			<insurance_discount>100000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
-			<optional_discount>85000</optional_discount>
+			<optional_discount>90000</optional_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L52R3088837</vin>
 			<description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
@@ -152,7 +152,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 				<image>https://photo.toyotasever.ru/LMGHT1L52R3088837/9036ee785bc82f05890c97c2bbdb62d1.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L52R3088837/47bff60c497ae58b1d3ef29d7d8c75aa.jpg</image>
 			</images>
-		<max_discount>765000</max_discount><priceWithDiscount>1834000</priceWithDiscount><sale_price>1834000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gb-белый-2024/</url></car>
+		<max_discount>770000</max_discount><priceWithDiscount>1829000</priceWithDiscount><sale_price>1829000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gb-белый-2024/</url></car>
 		<car>
 			<unique_id>7d4ff4e5dd181954d987b9cbd4a25dd7</unique_id>
 			<mark_id>GAC</mark_id>
@@ -244,7 +244,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<run>1</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>300000</credit_discount>
+			<credit_discount>280000</credit_discount>
 			<insurance_discount>150000</insurance_discount>
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
@@ -285,7 +285,7 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
 			<images />
-		<max_discount>950000</max_discount><priceWithDiscount>1499000</priceWithDiscount><sale_price>1499000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
+		<max_discount>930000</max_discount><priceWithDiscount>1519000</priceWithDiscount><sale_price>1519000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
 			<unique_id>8f3200e2a00eedc09a64d423bbba4575</unique_id>
 			<mark_id>GAC</mark_id>
@@ -301,7 +301,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<run>1</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>300000</credit_discount>
+			<credit_discount>280000</credit_discount>
 			<insurance_discount>150000</insurance_discount>
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
@@ -342,7 +342,7 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
 			<images />
-		<max_discount>950000</max_discount><priceWithDiscount>1499000</priceWithDiscount><sale_price>1499000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
+		<max_discount>930000</max_discount><priceWithDiscount>1519000</priceWithDiscount><sale_price>1519000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
 			<unique_id>a7e2834abf21204dfa27bce45ba80f9b</unique_id>
 			<mark_id>GAC</mark_id>
@@ -358,7 +358,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<run>1</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>300000</credit_discount>
+			<credit_discount>280000</credit_discount>
 			<insurance_discount>150000</insurance_discount>
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
@@ -399,7 +399,7 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
 			<images />
-		<max_discount>950000</max_discount><priceWithDiscount>1499000</priceWithDiscount><sale_price>1499000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
+		<max_discount>930000</max_discount><priceWithDiscount>1519000</priceWithDiscount><sale_price>1519000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
 			<unique_id>729c50362f2adf18a7b6563229cd0ce3</unique_id>
 			<mark_id>GAC</mark_id>
