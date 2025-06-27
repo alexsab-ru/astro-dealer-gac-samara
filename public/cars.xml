@@ -280,7 +280,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			</images>
 		<max_discount>810000</max_discount><priceWithDiscount>1989000</priceWithDiscount><sale_price>1989000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>bc4a11e30e7a1b654bdf418e6414832d</unique_id>
+			<unique_id>1ffb93cae9ed467aa26d6acbb8c188bc</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
@@ -299,7 +299,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L21R3085773</vin>
+			<vin>LMGHT1L20R3085795</vin>
 			<description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
 Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
 ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
@@ -337,7 +337,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<images />
 		<max_discount>930000</max_discount><priceWithDiscount>1519000</priceWithDiscount><sale_price>1519000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
-			<unique_id>1ffb93cae9ed467aa26d6acbb8c188bc</unique_id>
+			<unique_id>bc4a11e30e7a1b654bdf418e6414832d</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
@@ -356,7 +356,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L20R3085795</vin>
+			<vin>LMGHT1L21R3085773</vin>
 			<description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
 Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
 ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
@@ -579,7 +579,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<images />
 		<max_discount>1005000</max_discount><priceWithDiscount>3494000</priceWithDiscount><sale_price>3494000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-белый-2024/</url></car>
 		<car>
-			<unique_id>725c66c31c64ddd7ea4d35bc5f8cd3de</unique_id>
+			<unique_id>b9199973ac0ba3ec6a5bec76287dc830</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
@@ -588,7 +588,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
-			<availability>транзит</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>1</run>
 			<year>2025</year>
