@@ -347,75 +347,6 @@ GAC Центр Север — ваш путь к выгодной покупке
 			</images>
 		<max_discount>760000</max_discount><priceWithDiscount>1689000</priceWithDiscount><sale_price>1689000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
-			<unique_id>3d2deb317dceef62d6631e8a6e504908</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GS</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>СЕРЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2449000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>160000</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L26R3088474</vin>
-			<description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
-Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
-ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
- «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель — бесплатное хранение сезонных шин
-️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно
- Дополнительное оборудование в подарок — нужные опции без доплат
-
-ПОЧЕМУ GAC — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
-✅ Честная рассрочка от 0,01% — максимум удобства, минимум переплат
-✅ Кредит без стартовых вложений — садитесь за руль без ожидания
-✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
-✅ Лизинг без первого взноса — для тех, кто думает стратегически
-✅ Специальные цены на авто 2024 года — экономия уже на старте
-✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу
-✅ Официальная гарантия 5 лет или 150 000 км — надёжность в каждой поездке
-✅ Большой выбор авто в наличии — выберите и заберите прямо сейчас
-
-ДОПОЛНИТЕЛЬНЫЕ ПРЕИМУЩЕСТВА:
-✔️ Дистанционная подача заявки — экономьте время
-✔️ Выбор банков с лучшими условиями — только то, что выгодно именно вам
-✔️ Полное сопровождение сделки — наши специалисты помогут на каждом этапе
-✔️ Индивидуальные условия покупки в кредит, лизинг или trade-in — гибкий подход под ваш запрос
-✔️ Абсолютно открытые условия — без навязанных услуг и сюрпризов
-
-⭐ GАС Моtоr Соrроrаtiоn — один из крупнейших автопроизводителей Китая и мира, сотрудничающий с Toyota, Honda, Mitsubishi.
-⭐ В GAC Центр Север — индивидуальный подход и реальные выгоды для каждого клиента!
-
-⏰ ТОЛЬКО ДО КОНЦА МЕСЯЦА:
-Выгода до 910 000 ₽, подарки и бонусы действуют строго ограниченное время!
-Не упустите шанс купить свой GAC на лучших условиях в Самаре!
- Звоните прямо сейчас и бронируйте предложение!
- Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
-GAC Центр Север — ваш путь к выгодной покупке!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/393b8d7e0bf6facf9b06db05e206aa43.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/5321214eaed6473b9a63d157714a9278.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/e939d3c363df9c78471116198ccf7c15.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/74e7c833ae8ed579f10e9bc3002cc364.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/3683a95524eacd07b88397caca79259c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/27dd2c078c639678fcd9256e2f2b4ab3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/5662f01ef18753e6989f74f7373af1b9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/89dda8d27d19e47b4d43e123402bc03e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/9c611231266ac22f4ee557a8bc5959c8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/8f07b40f815d5828b2c834e5fe989c31.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/6fc738c24883c25918d1d8479cd009fe.jpeg</image>
-			</images>
-		<max_discount>760000</max_discount><priceWithDiscount>1689000</priceWithDiscount><sale_price>1689000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
-		<car>
 			<unique_id>11cf6cb682fa811b367a381f11f5d584</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -488,6 +419,75 @@ GAC Центр Север — ваш путь к выгодной покупке
 				<image>https://photo.toyotasever.ru/LMGHT1L29R3085777/7c07236d631a06d486312409105d9218.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L29R3085777/f76125b5cbbabd226ef6a820b839da8d.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGHT1L29R3085777/8ed7ed92026f5e107bccd6860dd597ea.jpeg</image>
+			</images>
+		<max_discount>760000</max_discount><priceWithDiscount>1689000</priceWithDiscount><sale_price>1689000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
+		<car>
+			<unique_id>3d2deb317dceef62d6631e8a6e504908</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GS</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>СЕРЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2449000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>160000</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L26R3088474</vin>
+			<description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
+Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
+ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
+ «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель — бесплатное хранение сезонных шин
+️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно
+ Дополнительное оборудование в подарок — нужные опции без доплат
+
+ПОЧЕМУ GAC — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
+✅ Честная рассрочка от 0,01% — максимум удобства, минимум переплат
+✅ Кредит без стартовых вложений — садитесь за руль без ожидания
+✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
+✅ Лизинг без первого взноса — для тех, кто думает стратегически
+✅ Специальные цены на авто 2024 года — экономия уже на старте
+✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу
+✅ Официальная гарантия 5 лет или 150 000 км — надёжность в каждой поездке
+✅ Большой выбор авто в наличии — выберите и заберите прямо сейчас
+
+ДОПОЛНИТЕЛЬНЫЕ ПРЕИМУЩЕСТВА:
+✔️ Дистанционная подача заявки — экономьте время
+✔️ Выбор банков с лучшими условиями — только то, что выгодно именно вам
+✔️ Полное сопровождение сделки — наши специалисты помогут на каждом этапе
+✔️ Индивидуальные условия покупки в кредит, лизинг или trade-in — гибкий подход под ваш запрос
+✔️ Абсолютно открытые условия — без навязанных услуг и сюрпризов
+
+⭐ GАС Моtоr Соrроrаtiоn — один из крупнейших автопроизводителей Китая и мира, сотрудничающий с Toyota, Honda, Mitsubishi.
+⭐ В GAC Центр Север — индивидуальный подход и реальные выгоды для каждого клиента!
+
+⏰ ТОЛЬКО ДО КОНЦА МЕСЯЦА:
+Выгода до 910 000 ₽, подарки и бонусы действуют строго ограниченное время!
+Не упустите шанс купить свой GAC на лучших условиях в Самаре!
+ Звоните прямо сейчас и бронируйте предложение!
+ Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
+GAC Центр Север — ваш путь к выгодной покупке!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/393b8d7e0bf6facf9b06db05e206aa43.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/5321214eaed6473b9a63d157714a9278.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/e939d3c363df9c78471116198ccf7c15.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/74e7c833ae8ed579f10e9bc3002cc364.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/3683a95524eacd07b88397caca79259c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/27dd2c078c639678fcd9256e2f2b4ab3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/5662f01ef18753e6989f74f7373af1b9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/89dda8d27d19e47b4d43e123402bc03e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/9c611231266ac22f4ee557a8bc5959c8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/8f07b40f815d5828b2c834e5fe989c31.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L26R3088474/6fc738c24883c25918d1d8479cd009fe.jpeg</image>
 			</images>
 		<max_discount>760000</max_discount><priceWithDiscount>1689000</priceWithDiscount><sale_price>1689000</sale_price><url>https://gac-samara.ru/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
 		<car>
@@ -813,7 +813,19 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 
 Цена указана с учетом установленного дополнительного оборудования.
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/cf6ee007c38bd585b55b15d7ba6b6a70.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/cee89934de6eef81d226f068df133936.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/d63dd11d3545406b91232d376706244c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/4234c941262d004a8e8e440837a127ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/240349b003b77facf177eae78550ebed.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/51831bc92883c4c3a39a2f782dce6181.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/e1f60be218e845a95f4fb9f97a76e101.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/1bc8ca358b4f981cb50a74fbfb5cbaf7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/b69686ebcc92f4bda61eda02e5a8e815.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/ab0874ae238c3de25a5aa49748f9cf5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1041464/408a56caf349615009df154388d81716.jpeg</image>
+			</images>
 		<max_discount>1020000</max_discount><priceWithDiscount>3829000</priceWithDiscount><sale_price>3829000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 		<car>
 			<unique_id>149eb0f7270fce6ba8d8fa05a8962d35</unique_id>
@@ -856,7 +868,21 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 
 Цена указана с учетом установленного дополнительного оборудования.
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/cb999729b3ea147bfbffc3d70a70aab4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/2bbf58a18c8fbb4807b4a7b2de3bd4b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/9ecd6e97535ce3c948da5b7ae53c6130.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/0797d8de3b372df7e0cbd160667d5b94.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/58fa87e20099643bab8bbe45690e44d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/aceb7c63ccbf7dcbb78920603994a360.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/49d31fa5ca309d48ef3109e69225494d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/9d21aebcef493d8adf0a04ec8d9a5f01.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/dd00e356c4dba1a8c22b37096862c95d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/478aec407a2e8abb21f20c0e1a2e2aba.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/d2b7ab91ea9cf46548b7c96524718306.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/e3d280092d09a50f13243b0805f64b7d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042900/eb859d8241dee82061ae76b3fec7e5c3.jpeg</image>
+			</images>
 		<max_discount>1020000</max_discount><priceWithDiscount>3829000</priceWithDiscount><sale_price>3829000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 		<car>
 			<unique_id>8696c5ebb1d46a0e7dbba024067f02e1</unique_id>
@@ -949,7 +975,19 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 
 Цена указана с учетом установленного дополнительного оборудования.
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/ecccbf7c2bba1c5a84ea0c02cdf55101.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/797596cd223f3a5aa18e9020e839995c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/116c39faec0a0edbe0f8eaa885b92316.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/9a500d9ec434915f2abfa56a0d795276.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/f90752503c3756cd8bb3e74ad07e533b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/e3e46cb1e8a8c286d0cd35fb36166971.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/6a4fe23b88a1976a623a47c347b19b01.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/87f112c580e4621292c5d043f77cf6c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/aa1c9567aa73938b1d48dbf5f001d4b7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/70ee81da61da78814fc140d00afa162b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G82R1041592/e1a3f996dc19fb26eddee3cd19a33509.jpeg</image>
+			</images>
 		<max_discount>1020000</max_discount><priceWithDiscount>3829000</priceWithDiscount><sale_price>3829000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<unique_id>b9199973ac0ba3ec6a5bec76287dc830</unique_id>
