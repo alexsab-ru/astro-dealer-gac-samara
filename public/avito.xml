@@ -317,9 +317,9 @@ GАС Цeнтp Север – oфициальный дилер GAC в Самар
 *Подробности предложения уточняйте у менеджеров отдела продаж.</Description>
 		<Price>2849000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount />
+		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>350000</MaxDiscount>
+		<MaxDiscount>720000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3135679/5f0334ee7bf196ad5a8c4554d0cc20e0.jpeg" />
@@ -827,8 +827,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>2999000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount>115000</InsuranceDiscount>
-		<MaxDiscount>515000</MaxDiscount>
+		<InsuranceDiscount>150000</InsuranceDiscount>
+		<MaxDiscount>700000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAT1L5XS1359159/594f14fb90d1bd0de890d50aae655153.jpg" />
