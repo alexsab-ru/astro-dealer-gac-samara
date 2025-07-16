@@ -930,8 +930,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 			<run>1</run>
 			<year>2024</year>
 			<price>4099000</price>
-			<credit_discount>300000</credit_discount>
-			<insurance_discount>110000</insurance_discount>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>119000</insurance_discount>
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>100000</optional_discount>
 			<currency>RUR</currency>
@@ -971,7 +971,7 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</description>
 			<images />
-		<max_discount>810000</max_discount><priceWithDiscount>3289000</priceWithDiscount><sale_price>3289000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-черный-2024/</url></car>
+		<max_discount>919000</max_discount><priceWithDiscount>3180000</priceWithDiscount><sale_price>3180000</sale_price><url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-черный-2024/</url></car>
 		<car>
 			<unique_id>0439f96e531063aa4447d1e5907119fb</unique_id>
 			<mark_id>GAC</mark_id>
