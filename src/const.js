@@ -35,6 +35,35 @@ export const LINKS_MENU = [
 	{url: '#reviews', name: 'Отзывы'},
 	// {url: '#services', name: 'Услуги'},
 	{url: '#contacts', name: 'Контакты'},
+	// {
+	// 	url: 'javascript:void(0)',
+	// 	name: 'Покупателям',
+	// 	children: [
+	// 		{url: 'special-offers/', name: 'Спецпредложения'},
+	// 		{url: 'test-drive/', name: 'Запись на тест-драйв'},
+			
+	// 	],
+	// },
+	// {
+	// 	url: 'for-owners',
+	// 	name: 'Владельцам',
+	// 	children: [
+	// 		{url: 'special-offers/', name: 'Спецпредложения'},
+	// 		{url: 'service-request/', name: 'Запись на сервис'},
+	// 		{url: 'service-and-warranty/', name: 'Сервис и гарантия'},
+	// 	],
+	// },
+	// {url: '#services', name: 'Услуги'},
+	// {
+	// 	url: 'javascript:void(0)',
+	// 	name: 'GAC',
+	// 	children: [
+	// 		{url: 'about/', name: 'О бренде'},			
+	// 		{url: 'news/', name: 'Новости'},
+	// 	],
+	// },
+	// {url: 'trade-in/', name: 'Оценка автомобиля'},
+	// {url: 'contacts/', name: 'Контакты'},
 ];
 
 // Коллекции
