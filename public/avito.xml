@@ -23,7 +23,7 @@
 		<Price>3219000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount />
+		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
@@ -97,8 +97,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>2799000</Price>
 		<TradeinDiscount>250000</TradeinDiscount>
 		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>160000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<InsuranceDiscount>165000</InsuranceDiscount>
+		<MaxDiscount>815000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L82R3086998/cb46116d85e958342ec7f37750608173.jpg" />
@@ -171,8 +171,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>2799000</Price>
 		<TradeinDiscount>250000</TradeinDiscount>
 		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>160000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<InsuranceDiscount>165000</InsuranceDiscount>
+		<MaxDiscount>815000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images />
 		<Make>GAC</Make>
@@ -233,8 +233,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>2799000</Price>
 		<TradeinDiscount>250000</TradeinDiscount>
 		<CreditDiscount>250000</CreditDiscount>
-		<InsuranceDiscount>160000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<InsuranceDiscount>165000</InsuranceDiscount>
+		<MaxDiscount>815000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L83R3089005/be04b08632e2f24ffba098be5d87fb0d.jpeg" />
@@ -308,9 +308,9 @@ GАС Цeнтp Север – oфициальный дилер GAC в Самар
 *Подробности предложения уточняйте у менеджеров отдела продаж.</Description>
 		<Price>2849000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>210000</CreditDiscount>
+		<CreditDiscount>219000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>730000</MaxDiscount>
+		<MaxDiscount>739000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L80R3124339/6a57efd3e3967a766d802127fce9eff4.jpeg" />
@@ -382,9 +382,9 @@ GАС Цeнтp Север – oфициальный дилер GAC в Самар
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Синий</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L29R3084239/eba9486021ee0102a1c88749e19a3b2b.jpeg" />
@@ -456,9 +456,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Синий</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L28R3090341/9f3ff3d3c9ac5e28ecbb3acbe04ec586.jpeg" />
@@ -532,9 +532,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L21R3085773/4a5fab47dde67bde774da8f6b358878d.jpeg" />
@@ -605,9 +605,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L24R3086187/5fd2b7262ebc6ef3bb60e671cc93fde9.jpeg" />
@@ -681,9 +681,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L24R3090577/55b82d6ccc8c7b1beb7f05f5a25ff3e4.jpeg" />
@@ -755,9 +755,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L24R3087873/f0e258b3ec784a63f17864bafd05aa44.jpeg" />
@@ -829,9 +829,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L24R3090594/d09a20227b7bae7f3a4e58812cf0199c.jpeg" />
@@ -903,9 +903,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L22R3090285/ffb732d91294affa70afcba57747aa27.jpeg" />
@@ -977,9 +977,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>2449000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>131000</CreditDiscount>
+		<CreditDiscount>132000</CreditDiscount>
 		<InsuranceDiscount>250000</InsuranceDiscount>
-		<MaxDiscount>731000</MaxDiscount>
+		<MaxDiscount>732000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGHT1L20R3086817/55e2dbba85f86473c8064ed290e7e134.jpeg" />
@@ -1052,8 +1052,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>4499000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>300000</CreditDiscount>
-		<InsuranceDiscount>210000</InsuranceDiscount>
-		<MaxDiscount>1010000</MaxDiscount>
+		<InsuranceDiscount>211000</InsuranceDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1043774/c8877a14e4f95e7377af4dc8802bb52d.jpeg" />
@@ -1129,8 +1129,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>4499000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>300000</CreditDiscount>
-		<InsuranceDiscount>210000</InsuranceDiscount>
-		<MaxDiscount>1010000</MaxDiscount>
+		<InsuranceDiscount>211000</InsuranceDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G87R1044469/186aab29f3d363c779a6ce441c2ae4a7.jpeg" />
@@ -1189,9 +1189,9 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
 		<Price>4849000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>310000</CreditDiscount>
+		<CreditDiscount>311000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>1010000</MaxDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G83R1042900/cb999729b3ea147bfbffc3d70a70aab4.jpeg" />
@@ -1251,9 +1251,9 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
 		<Price>4849000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>310000</CreditDiscount>
+		<CreditDiscount>311000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>1010000</MaxDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G84R1041464/cf6ee007c38bd585b55b15d7ba6b6a70.jpeg" />
@@ -1311,9 +1311,9 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
 		<Price>4849000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>310000</CreditDiscount>
+		<CreditDiscount>311000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>1010000</MaxDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G8XR1045194/e0bbe8b5ce48bb1a987b126f148cd457.jpeg" />
@@ -1366,9 +1366,9 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
 		<Price>4849000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>310000</CreditDiscount>
+		<CreditDiscount>311000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>1010000</MaxDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G82R1041706/86e3ea4f3e85a0aed4a80778aff5458b.jpeg" />
@@ -1427,9 +1427,9 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 Ждем вас по адресу: г. Самара 24 км Московского шоссе, дом № 3, стр 1</Description>
 		<Price>4849000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>310000</CreditDiscount>
+		<CreditDiscount>311000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>1010000</MaxDiscount>
+		<MaxDiscount>1011000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G81R1042295/9568a33265a228eae6b984b87531e0ce.jpeg" />
@@ -1483,8 +1483,8 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 		<Price>4949000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount>200000</InsuranceDiscount>
-		<MaxDiscount>900000</MaxDiscount>
+		<InsuranceDiscount>201000</InsuranceDiscount>
+		<MaxDiscount>901000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G83S1047617/611a9d9eb507613ec0d3e9f7b9aad481.jpg" />
@@ -1539,8 +1539,8 @@ Oфициальный дилер GAС Центр Север в Самаре пр
 		<Price>4949000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
 		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount>200000</InsuranceDiscount>
-		<MaxDiscount>900000</MaxDiscount>
+		<InsuranceDiscount>201000</InsuranceDiscount>
+		<MaxDiscount>901000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1046119/6d256a55bd1b75f86c58194a45d89c04.jpeg" />
