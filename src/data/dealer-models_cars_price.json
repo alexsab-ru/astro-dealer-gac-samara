@@ -13,6 +13,12 @@
   },
   {
     "brand": "GAC",
+    "model": "GS4",
+    "price": 3299000,
+    "benefit": 350000
+  },
+  {
+    "brand": "GAC",
     "model": "GS8",
     "price": 3189000,
     "benefit": 1010000
