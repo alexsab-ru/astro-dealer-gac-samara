@@ -846,7 +846,16 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<InsuranceDiscount>200000</InsuranceDiscount>
 		<MaxDiscount>840000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/fab25f7cda53fa05897478c5a8117be6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/e76655aaff1745bedae4ae84e43b8e62.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/c2318924cfdcec17a4513792dd9a8c84.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/0251ebee9c9be6d143e46d5742e76c5b.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/38aa5d583212f9073168be3abc983a78.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/3f32ba822f42f986e7537b6326e6f338.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/47c0870d6a5b06134b8c694958335a9d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1059016/509bb152fc1efbb473a70bea552a538f.jpeg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS8</Model>
 		<GenerationId>17554087</GenerationId>
