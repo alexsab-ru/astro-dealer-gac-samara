@@ -407,10 +407,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
  5 ТО за 1 рубль  при покупки автомобиля 30-31 января 2026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount>60000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<MaxDiscount>610000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G81S1058857/6d3b44922987faa1d6a0a8cac7c9a23f.jpeg" />
@@ -519,10 +519,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
  5 ТО за 1 рубль  при покупки автомобиля 30-31 января 2026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount>60000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<MaxDiscount>610000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/b31591df28a60da54f3a9d21ac30f379.jpeg" />
@@ -629,10 +629,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
  5 ТО за 1 рубль  при покупки автомобиля 30-31 января 2026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount>60000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<MaxDiscount>610000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/a4ff86cf7901882db610e4af53a8c70e.jpeg" />
@@ -741,10 +741,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
  5 ТО за 1 рубль  при покупки автомобиля 30-31 января 2026г</Description>
 		<Price>4399000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>60000</InsuranceDiscount>
-		<MaxDiscount>810000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G5XS1051279/852232844cdb42f1521bc989379d02a2.jpeg" />
