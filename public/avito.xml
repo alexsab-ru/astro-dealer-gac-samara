@@ -334,7 +334,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>301a30d23f713ee59effe293760b8617</Id>
+		<Id>a1a8cb73c78dcd6512b4d5792c6249c1</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -412,21 +412,19 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!
-5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г026г</Description>
+ 5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>1050000</MaxDiscount>
-		<Color>Белый</Color>
+		<MaxDiscount>850000</MaxDiscount>
+		<Color>Серебряный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/6bdc670d54abba31378e9e24726e7d6e.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/57d4d6139ada22fe6f94a2907a8df0b6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/e1b78d9ac78d12cbfa1cf1fb1d5bc8ff.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/ee1b8a9147f411ecba8b50854fbebcf7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/fed8c94a92850a900a6537c2528a815d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/b7dd9389d0c8851cb9cc5fc125bc5ee8.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/7740ef49c71b99d7b8747e513bb9d092.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/b31591df28a60da54f3a9d21ac30f379.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/a53556e3dc059ac8abcc656ba9001339.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/3186987bdf910fb2cf510d23d7eb9653.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/b6a3ff950fc8a7a11374fe9c4b856d28.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/91f6559f8636080fc80db96e0d679658.jpeg" />
 		</Images>
 		<Make>GAC</Make>
 		<Model>GS8</Model>
@@ -440,7 +438,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LMGJU3G86S1058840</VIN>
+		<VIN>LMGJU3G8XS1054953</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -558,7 +556,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>a1a8cb73c78dcd6512b4d5792c6249c1</Id>
+		<Id>301a30d23f713ee59effe293760b8617</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -636,19 +634,21 @@ GAC Центр Север — ваш путь к выгодной покупке
  Звоните прямо сейчас и бронируйте предложение!
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!
- 5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г</Description>
+5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>850000</MaxDiscount>
-		<Color>Серебряный</Color>
+		<MaxDiscount>1050000</MaxDiscount>
+		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/b31591df28a60da54f3a9d21ac30f379.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/a53556e3dc059ac8abcc656ba9001339.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/3186987bdf910fb2cf510d23d7eb9653.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/b6a3ff950fc8a7a11374fe9c4b856d28.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/91f6559f8636080fc80db96e0d679658.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/6bdc670d54abba31378e9e24726e7d6e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/57d4d6139ada22fe6f94a2907a8df0b6.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/e1b78d9ac78d12cbfa1cf1fb1d5bc8ff.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/ee1b8a9147f411ecba8b50854fbebcf7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/fed8c94a92850a900a6537c2528a815d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/b7dd9389d0c8851cb9cc5fc125bc5ee8.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86S1058840/7740ef49c71b99d7b8747e513bb9d092.jpeg" />
 		</Images>
 		<Make>GAC</Make>
 		<Model>GS8</Model>
@@ -662,7 +662,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LMGJU3G8XS1054953</VIN>
+		<VIN>LMGJU3G86S1058840</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -900,6 +900,60 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>feba9527acdfaf002cdde9d5eddb4b80</Id>
+		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
+Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
+ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
+ «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
+ Шинный отель — бесплатное хранение сезонных шин
+️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно
+ Дополнительное оборудование в подарок — нужные опции без доплат
+
+ПОЧЕМУ GAC — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
+✅ Честная рассрочка от 0,01% — максимум удобства, минимум переплат
+✅ Кредит без стартовых вложений — садитесь за руль без ожидания
+✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
+✅ Лизинг без первого взноса — для тех, кто думает стратегически
+✅ Специальные цены на авто 2024 года — экономия уже на старте
+✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу
+ 5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г</Description>
+		<Price>5199000</Price>
+		<TradeinDiscount>300000</TradeinDiscount>
+		<CreditDiscount>140000</CreditDiscount>
+		<InsuranceDiscount>200000</InsuranceDiscount>
+		<MaxDiscount>840000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/e51b0a4b2991cac17850759f4641ad0a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/385c8eec2c552569a07009bae153a754.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/e0785f7bfacd7f11dff3e8c7d1e8958a.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/c4d8a3cc9d7cef46054e272f3f33cc82.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/ff554474d124a6935e71f933bf5495a7.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/92a48732000033a8728b6761c9ee096d.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/576881f074c52aad2cfb9f706342d0b9.jpeg" />
+		</Images>
+		<Make>GAC</Make>
+		<Model>GS8</Model>
+		<GenerationId>17554087</GenerationId>
+		<ModificationId>18621573</ModificationId>
+		<ComplectationId>18621576</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LMGJU3G84S1054642</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>941df57c283e67044ebebcb54d8e5a05</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
@@ -950,60 +1004,6 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGJU3G84S1059016</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>feba9527acdfaf002cdde9d5eddb4b80</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
-Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
-ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
- «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель — бесплатное хранение сезонных шин
-️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно
- Дополнительное оборудование в подарок — нужные опции без доплат
-
-ПОЧЕМУ GAC — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
-✅ Честная рассрочка от 0,01% — максимум удобства, минимум переплат
-✅ Кредит без стартовых вложений — садитесь за руль без ожидания
-✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
-✅ Лизинг без первого взноса — для тех, кто думает стратегически
-✅ Специальные цены на авто 2024 года — экономия уже на старте
-✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу
- 5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г</Description>
-		<Price>5199000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>140000</CreditDiscount>
-		<InsuranceDiscount>200000</InsuranceDiscount>
-		<MaxDiscount>840000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/e51b0a4b2991cac17850759f4641ad0a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/385c8eec2c552569a07009bae153a754.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/e0785f7bfacd7f11dff3e8c7d1e8958a.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/c4d8a3cc9d7cef46054e272f3f33cc82.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/ff554474d124a6935e71f933bf5495a7.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/92a48732000033a8728b6761c9ee096d.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G84S1054642/576881f074c52aad2cfb9f706342d0b9.jpeg" />
-		</Images>
-		<Make>GAC</Make>
-		<Model>GS8</Model>
-		<GenerationId>17554087</GenerationId>
-		<ModificationId>18621573</ModificationId>
-		<ComplectationId>18621576</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LMGJU3G84S1054642</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
