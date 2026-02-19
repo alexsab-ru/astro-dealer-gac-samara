@@ -526,10 +526,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
 5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>850000</MaxDiscount>
+		<MaxDiscount>1050000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G81S1058857/6ae9440b6e93d76ba9fe19dca6555ac8.jpg" />
@@ -638,10 +638,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
  5 ТО за 1 рубль  при покупки автомобиля до 10.02. 2026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>850000</MaxDiscount>
+		<MaxDiscount>1050000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1054953/b31591df28a60da54f3a9d21ac30f379.jpeg" />
