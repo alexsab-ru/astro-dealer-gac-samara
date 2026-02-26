@@ -1,6 +1,12 @@
 [
   {
     "brand": "Gac",
+    "model": "GS4",
+    "price": 3329000,
+    "benefit": 520000
+  },
+  {
+    "brand": "Gac",
     "model": "GS8",
     "price": 3589000,
     "benefit": 1050000
