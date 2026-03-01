@@ -545,10 +545,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
 5 ТО за 1 рубль  при покупки автомобиля до 28.02. 2026г</Description>
 		<Price>4799000</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>850000</MaxDiscount>
+		<MaxDiscount>1050000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G81S1058857/6ae9440b6e93d76ba9fe19dca6555ac8.jpg" />
@@ -1168,10 +1168,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
 5 ТО за 1 рубль  при покупки автомобиля до 28.02. 2026г</Description>
 		<Price>6049000</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images />
 		<Make>GAC</Make>
@@ -1187,84 +1187,6 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LMGNC3S88S1000479</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>b6334bb54e34b4eda9b80f6c0af0bab9</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
-Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
-ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
-. «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель — бесплатное хранение сезонных шин
-️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно
- Дополнительное оборудование в подарок — нужные опции без доплат
-
-ПОЧЕМУ GAC — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
-✅ Честная рассрочка от 0,01% — максимум удобства, минимум переплат
-✅ Кредит без стартовых вложений — садитесь за руль без ожидания
-✅ Trade-in с повышенной оценкой — старый авто станет частью выгодной сделки
-✅ Лизинг без первого взноса — для тех, кто думает стратегически
-✅ Специальные цены на авто 2024 года — экономия уже на старте
-✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу
-✅ Официальная гарантия 5 лет или 150 000 км — надёжность в каждой поездке
-✅ Большой выбор авто в наличии — выберите и заберите прямо сейчас
-
-ДОПОЛНИТЕЛЬНЫЕ ПРЕИМУЩЕСТВА:
-✔️ Дистанционная подача заявки — экономьте время
-✔️ Выбор банков с лучшими условиями — только то, что выгодно именно вам
-✔️ Полное сопровождение сделки — наши специалисты помогут на каждом этапе
-✔️ Индивидуальные условия покупки в кредит, лизинг или trade-in — гибкий подход под ваш запрос
-✔️ Абсолютно открытые условия — без навязанных услуг и сюрпризов
-
-⭐ GАС  — один из крупнейших автопроизводителей Китая и мира, сотрудничающий с Toyota, Honda, Mitsubishi.
-⭐ В GAC Центр Север — индивидуальный подход и реальные выгоды для каждого клиента!
-
-⏰ ТОЛЬКО ДО КОНЦА МЕСЯЦА:
-Выгода до 910 000 ₽, подарки и бонусы действуют строго ограниченное время!
-Не упустите шанс купить свой GAC на лучших условиях в Самаре!
- Звоните прямо сейчас и бронируйте предложение!
- Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
-GAC Центр Север — ваш путь к выгодной покупке!
-5 ТО за 1 рубль  при покупки автомобиля до 28.02. 2026г</Description>
-		<Price>6149000</Price>
-		<TradeinDiscount />
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount />
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/6a6980fc02b023c734f783ef9e996f3e.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/df0bfbaedb7d2e4cb3ac036780bc9f70.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/d17c2c30348ff23fe90c6a9a6abfd81b.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/2f0665fbc7a5452e7d353d141f42f6c6.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/f1f163a5f2bbced96a9dc273d9bf7e5f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/36b8481c49dc9593c0f9e6d894434d66.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/98eb7ca4755ebcc0b12f91b6d05774cd.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/d26b4afeb0e44e64a7039657ce73f5a0.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/da1b9b8ac9c5a34907e2ec839609206f.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/f7277b20b95180225a775dc7a254bea1.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/70ef2cb152ff6d28639e39afbbe75654.jpeg" />
-			<Image url="https://photo.toyotasever.ru/LMGNC3S85S1000228/7cda5a9cdcdd29b71818ecedd01106d9.jpeg" />
-		</Images>
-		<Make>GAC</Make>
-		<Model>S7</Model>
-		<GenerationId>22527386</GenerationId>
-		<ModificationId>22527387</ModificationId>
-		<ComplectationId>22527486</ComplectationId>
-		<FuelType>Гибрид</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LMGNC3S85S1000228</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1311,10 +1233,10 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!
 5 ТО за 1 рубль  при покупки автомобиля до 28.02. 2026г</Description>
 		<Price>6099000</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images />
 		<Make>GAC</Make>
