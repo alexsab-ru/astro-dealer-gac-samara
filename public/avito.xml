@@ -211,7 +211,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Model>GS4</Model>
 		<GenerationId>22337985</GenerationId>
 		<ModificationId>22428755</ModificationId>
-		<ComplectationId>22428756</ComplectationId>
+		<ComplectationId>22438007</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
@@ -292,7 +292,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Model>GS4</Model>
 		<GenerationId>22337985</GenerationId>
 		<ModificationId>22428755</ModificationId>
-		<ComplectationId>22428756</ComplectationId>
+		<ComplectationId>22438007</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
@@ -352,12 +352,27 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<InsuranceDiscount />
 		<MaxDiscount>720000</MaxDiscount>
 		<Color>Серый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/002e73be0bd71559e4711afbac7f1f06.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/cb7cbaffcaa72e521473401cf2477082.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/34150521df68d4149fc1259ef380fa8a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/ac8fc603b02ae244b489c9bedba40486.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/9d1165a4802f8ba1e820e13394121c56.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/f71fb56fb1315aa90728d438257d9f3a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/277e3b42f8ecb6bc9afb280c6f8d983e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/d46c527b80d6750beec6bd7e82e4b8dd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/26806ad0e0ae0ef2d86c1bcdb4690fb4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/159e05ebbecabc3064d8cdc9ef835bbd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/368cd26dc4bb2c9f433583800de789db.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/d8d589f5a4821ae5c0839a0c64a4d757.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/a3bc2996317be6c1a0615c723e00af53.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/a7c14f00e99dea5054b4cf3bf93a7a19.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS4</Model>
 		<GenerationId>22337985</GenerationId>
 		<ModificationId>22428755</ModificationId>
-		<ComplectationId>22428756</ComplectationId>
+		<ComplectationId>22438007</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
@@ -432,7 +447,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Model>GS4</Model>
 		<GenerationId>22337985</GenerationId>
 		<ModificationId>22428755</ModificationId>
-		<ComplectationId>22428756</ComplectationId>
+		<ComplectationId>22438007</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
@@ -513,7 +528,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Model>GS8</Model>
 		<GenerationId>17554087</GenerationId>
 		<ModificationId>18621373</ModificationId>
-		<ComplectationId>18621375</ComplectationId>
+		<ComplectationId>18621374</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
@@ -578,7 +593,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Model>GS8</Model>
 		<GenerationId>17554087</GenerationId>
 		<ModificationId>18621373</ModificationId>
-		<ComplectationId>18621375</ComplectationId>
+		<ComplectationId>18621374</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2025</Year>
