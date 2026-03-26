@@ -43,8 +43,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>3299000</Price>
 		<TradeinDiscount />
 		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>530000</MaxDiscount>
+		<InsuranceDiscount>30000</InsuranceDiscount>
+		<MaxDiscount>560000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAT1L59S1379113/5fa847c98bf031c94eb3c6e2ca21ec95.jpg" />
@@ -120,10 +120,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>3699000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>200000</MaxDiscount>
+		<MaxDiscount>590000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G54S1003581/2809485586cb34d4d24736b635c5bf87.jpg" />
@@ -201,10 +201,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>3849000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount>50000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>720000</MaxDiscount>
+		<MaxDiscount>670000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G83S1003520/5f00d59e550962396b8ae169343c7373.jpg" />
@@ -282,10 +282,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>3849000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount>50000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>720000</MaxDiscount>
+		<MaxDiscount>670000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G84S1002778/002e73be0bd71559e4711afbac7f1f06.jpg" />
@@ -362,10 +362,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>3849000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount>50000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>720000</MaxDiscount>
+		<MaxDiscount>670000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G87S1003343/948aff7e38d43de1379c699a932ed58a.jpg" />
@@ -443,10 +443,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4399000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount>50000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>880000</MaxDiscount>
+		<MaxDiscount>830000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G56S1053577/ca7487ae5a150b6d4bda7ede2da0d534.jpg" />
@@ -524,10 +524,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4399000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount>50000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>880000</MaxDiscount>
+		<MaxDiscount>830000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G53S1053195/5c9bec8b70228c16cbd1735543cd064c.jpg" />
