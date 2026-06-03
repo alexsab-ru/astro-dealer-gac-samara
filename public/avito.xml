@@ -44,7 +44,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>470000</MaxDiscount>
+		<MaxDiscount>475000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGBB1L8XS3147884/9821041973c432033ab2cd243a621a62.jpg" />
@@ -119,8 +119,8 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<Price>3299000</Price>
 		<TradeinDiscount />
 		<CreditDiscount />
-		<InsuranceDiscount>50000</InsuranceDiscount>
-		<MaxDiscount>350000</MaxDiscount>
+		<InsuranceDiscount>55000</InsuranceDiscount>
+		<MaxDiscount>355000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAT1L59S1379113/2208a7beec33e0eb5e0470f3fc854c59.jpg" />
@@ -204,9 +204,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>3849000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>65000</CreditDiscount>
+		<CreditDiscount>75000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>515000</MaxDiscount>
+		<MaxDiscount>525000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G80S1004348/b6ea5710b9b0b0db60a18e84ed12d178.jpg" />
@@ -286,11 +286,25 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>685000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/5861431f5e08d803c9aff4218bbf9fcd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/a65ff0fcc85ecea40322f114aa7bb497.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/582de91efa152b0a89564ea710600d51.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/33a0abcef4e0ab81861edabec9d86cc4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/07445ec3d9aab971b022a8d14459c21a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/2eb249f1447b0e6032a4b9e06920642a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/67d26245f9d90b2064bdee2713dc894c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/747e98b10cc982bc894b2bcf7293ed68.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/63cd5e603bea0e854a50629fd86f8df4.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/9584c50066029ab6eb27c88ffe58aa1b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/ab32f4c14e838b4feff126fe7fa96ca7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/8d5fc8e94ec28819b1d9ffafc8c8999b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/a68217771fff432c52befb0d34da8317.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS8 Dragon</Model>
 		<GenerationId>22399075</GenerationId>
@@ -351,9 +365,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>685000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G88T1061899/aaa9e579a92ca370a313701eba72c33f.jpg" />
@@ -428,9 +442,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4799000</Price>
 		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>885000</MaxDiscount>
+		<MaxDiscount>910000</MaxDiscount>
 		<Color>Зеленый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G81S1059507/820b85e9dafe13ac3e4ef26397165f8c.jpg" />
@@ -515,11 +529,24 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>685000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/7be44f06cd4c29deccf810ea2420d02f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/07ad1d188aab284874c31b5b182ae154.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/43ff65d695fc9dae74017b47dadd6c63.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/ae2ff36532302df09cb2482bf10c894e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/013fda307f7b9bebc6ea4d718a9d5095.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/61a976efb987c2d4cb9a6fd4a92f251d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/846736f115a989a33067eb0ef0e6b369.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/f536dfab339eb1376c5be10b8719348b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/c4f46036ad693f54a151a6e9e6a3a293.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/b22506dff06bd6c62b1b38573fc6bcfd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/57f5871c60416d35932c481dcf6e4aff.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062869/ae5dab1e9b51b738e6aaa2510b7e0254.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS8 Dragon</Model>
 		<GenerationId>22399075</GenerationId>
@@ -580,9 +607,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>685000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G87T1062087/40ef76fcf62f8d309b463e3bdb1dba25.jpg" />
@@ -657,11 +684,27 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>685000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/02e69c6f10f861de71774b1c3debb784.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/584658e8c18ea6763f0af30fbf965caf.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/2422443c852539c904a19a07dfaf17d8.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/03b98ad2476b87eae9e1f7b6f1c676ed.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/222c84bb2ddc49e81c14cfc30b953414.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/4bfd158c33c15260db0140438bd97c48.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/bafd0f8bc8d4de794fac5191660f6469.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/751048142257e868174413ff2a9f9629.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/d7fb274ccdcf6bcaf239fe2b3478025b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/9dff1701f28399f02119e6c8edec67f5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/ae55c48a22c7267420545e184d9ab166.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/b97bc278310e9c7cd4a04968b8360d59.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/fea837c154dd2b708928ea166573429b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/8ff38d39a2f0749894dda11d6b81ff59.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/e007dc81e824fff5d5fa12ba92388dd8.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS8 Dragon</Model>
 		<GenerationId>22399075</GenerationId>
@@ -722,9 +765,9 @@ GAC Центр Север — ваш путь к выгодной покупке
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>4949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>95000</CreditDiscount>
+		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>685000</MaxDiscount>
+		<MaxDiscount>710000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images />
 		<Make>GAC</Make>
@@ -789,7 +832,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062029/3edc33314deed6145df587e4089944af.jpg" />
@@ -866,7 +909,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G81S1059815/41c6ada8b96fd79ace333f4245d6062e.jpg" />
@@ -946,7 +989,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G8XS1060431/90eb7ed9fa24cd6737ca3f0cb299e53c.jpg" />
@@ -1028,7 +1071,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G82S1058933/097bfd1db0d642533cc2e66e2af4bc85.jpg" />
@@ -1108,7 +1151,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1061283/d45ea35a22b2fb5ea454ebf256c3adae.jpg" />
@@ -1179,7 +1222,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images />
 		<Make>GAC</Make>
@@ -1244,7 +1287,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>675000</MaxDiscount>
+		<MaxDiscount>695000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images />
 		<Make>GAC</Make>
@@ -1309,7 +1352,7 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>555000</MaxDiscount>
+		<MaxDiscount>565000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGNC3S88T1000855/db82c5df5f3846bded3749d20f24a99b.jpg" />
