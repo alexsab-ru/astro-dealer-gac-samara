@@ -1244,71 +1244,6 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
-	<Ad>
-		<Id>1b8b02fce642cc76501072cf6b717b97</Id>
-		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>GAC в Самаре — ЛУЧШАЯ ЦЕНА и ВЫГОДА до 910 000 ₽! Только в GAC Центр Север! 
-Нашли дешевле? Мы перебьём любое предложение! Не верите? Звоните и убедитесь сами!
-ПРИ ПОКУПКЕ В GAC ЦЕНТР СЕВЕР ВЫ ПОЛУЧАЕТЕ ПАКЕТ ПРИЯТНЫХ БОНУСОВ:
-. «5 лет без сервисных забот»* — все плановые работы уже включены, вам остаётся только наслаждаться поездками
- Шинный отель — бесплатное хранение сезонных шин
-️ Автоотель — охраняемая парковка рядом с дилерским центром — всегда бесплатно
- Дополнительное оборудование в подарок — нужные опции без доплат 
-5 ТО за 1 рубль  при покупки автомобиля до 30.06.2026г
-
-ПОЧЕМУ GAC — ЭТО ВЫГОДНАЯ ПОКУПКА ИМЕННО СЕЙЧАС?
-✅кредит от 0,01% 
-✅ Кредит без стартовых вложений — садитесь за руль без ожидания
-✅ Tрейд-ин с повышенной оценкой — старый авто станет частью выгодной сделки
-✅ Лизинг без первого взноса — для тех, кто думает стратегически
-✅ Специальные цены на авто 2026 года — экономия уже на старте
-✅ Автомобиль в день обращения — никаких задержек, уезжайте сразу
-✅ Официальная гарантия 5 лет или 150 000 км — надёжность в каждой поездке
-✅ Большой выбор авто в наличии — выберите и заберите прямо сейчас
-
-ДОПОЛНИТЕЛЬНЫЕ ПРЕИМУЩЕСТВА:
-✔️ Дистанционная подача заявки — экономьте время
-✔️ Выбор банков с лучшими условиями — только то, что выгодно именно вам
-✔️ Полное сопровождение сделки — наши специалисты помогут на каждом этапе
-✔️ Индивидуальные условия покупки в кредит, лизинг или trade-in — гибкий подход под ваш запрос
-✔️ Абсолютно открытые условия — без навязанных услуг и сюрпризов
-
-⭐ GАС  — один из крупнейших автопроизводителей Китая и мира, сотрудничающий с Toyota, Honda, Mitsubishi.
-⭐ В GAC Центр Север — индивидуальный подход и реальные выгоды для каждого клиента!
-
-⏰ ТОЛЬКО ДО КОНЦА МЕСЯЦА:
-Выгода до 910 000 ₽, подарки и бонусы действуют строго ограниченное время!
-Не упустите шанс купить свой GAC на лучших условиях в Самаре!
- Звоните прямо сейчас и бронируйте предложение!
- Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
-GAC Центр Север — ваш путь к выгодной покупке!</Description>
-		<Price>6799000</Price>
-		<TradeinDiscount />
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount />
-		<Color>Синий</Color>
-		<Images />
-		<Make>GAC</Make>
-		<Model>S9</Model>
-		<GenerationId>22641574</GenerationId>
-		<ModificationId>22641575</ModificationId>
-		<ComplectationId>22641576</ComplectationId>
-		<FuelType>Гибрид</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LMGJF3S87T1000142</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
 <Ad>
     <Address>Самара, Московское шоссе, 24-й километр, 3ст2</Address>
     <Id>9e0b0df92060b9732b50ebb0778792f6</Id>
@@ -1362,8 +1297,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2420-fa0d11e4.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2441-d9d38e45.jpg" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GX Premium</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>450000</MaxDiscount>
@@ -1431,8 +1366,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2420-fa0d11e4.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2441-d9d38e45.jpg" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GX Premium</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>450000</MaxDiscount>
@@ -1500,8 +1435,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2420-fa0d11e4.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2441-d9d38e45.jpg" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GX Premium</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>450000</MaxDiscount>
@@ -1569,8 +1504,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2420-fa0d11e4.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-162410/img-2441-d9d38e45.jpg" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GX Premium</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>450000</MaxDiscount>
@@ -1647,8 +1582,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -1725,8 +1660,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -1803,8 +1738,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -1881,8 +1816,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -1959,8 +1894,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -2037,8 +1972,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-143213/19-24bb6e0c.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-143213/20-e82103de.jpg" />
     </Images>
-    <Generation>I (2024—2025)</Generation>
-    <Modification>1.5TG WDCT (170 л.с.)</Modification>
+    <Generation>I (2024—2026)</Generation>
+    <Modification>1.5T DCT (170 л.с.)</Modification>
     <Complectation>GB</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>360000</MaxDiscount>
@@ -2116,7 +2051,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-143213/20-e82103de.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>1.5TG WDCT (170 л.с.)</Modification>
+    <Modification>1.5T DCT (170 л.с.)</Modification>
     <Complectation>GB</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>360000</MaxDiscount>
@@ -2194,7 +2129,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-143213/20-e82103de.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>1.5TG WDCT (170 л.с.)</Modification>
+    <Modification>1.5T DCT (170 л.с.)</Modification>
     <Complectation>GB</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>360000</MaxDiscount>
@@ -2264,7 +2199,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2334,7 +2269,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2404,7 +2339,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2474,7 +2409,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2544,7 +2479,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2614,7 +2549,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2684,7 +2619,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2754,7 +2689,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2824,7 +2759,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2894,7 +2829,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -2964,7 +2899,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260626-144012/06e2f968-27b5-432a-8624-7203c692dd3a-81d57d6b.jpg" />
     </Images>
     <Generation>I (2024—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GL</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>530000</MaxDiscount>
@@ -3042,7 +2977,7 @@ GAC Центр Север — ваш путь к выгодной покупке
     </Images>
     <Generation>I (2024—2026)</Generation>
     <Modification>1.5TG WDCT (170 л.с.)</Modification>
-    <Complectation>GL</Complectation>
+    <Complectation>GL (S-Style)</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>470000</MaxDiscount>
     <Availability>в пути</Availability>
@@ -3119,7 +3054,7 @@ GAC Центр Север — ваш путь к выгодной покупке
     </Images>
     <Generation>I (2024—2026)</Generation>
     <Modification>1.5TG WDCT (170 л.с.)</Modification>
-    <Complectation>GL</Complectation>
+    <Complectation>GL (S-Style)</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>470000</MaxDiscount>
     <Availability>в пути</Availability>
@@ -3194,7 +3129,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-164630/3d25b636-192e-4b12-b2a5-93cca25bb9fc-b1ff6006.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-164630/008ff3e0-6214-47ad-b964-9ab3bfee0013-1a5ed992.jpg" />
     </Images>
-    <Generation>I (2026)</Generation>
+    <Generation>I (2026—2026)</Generation>
     <Modification>1.5 4WD АТ (340 л.с)</Modification>
     <Complectation>SX Premium</Complectation>
     <CarType>Новые</CarType>
@@ -3271,7 +3206,7 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-164630/3d25b636-192e-4b12-b2a5-93cca25bb9fc-b1ff6006.jpg" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-164630/008ff3e0-6214-47ad-b964-9ab3bfee0013-1a5ed992.jpg" />
     </Images>
-    <Generation>I (2026)</Generation>
+    <Generation>I (2026—2026)</Generation>
     <Modification>1.5 4WD АТ (340 л.с)</Modification>
     <Complectation>SX Premium</Complectation>
     <CarType>Новые</CarType>
@@ -3349,8 +3284,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -3427,8 +3362,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -3505,8 +3440,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -3583,8 +3518,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
@@ -3661,8 +3596,8 @@ GAC Центр Север — ваш путь к выгодной покупке
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/19-100226e9.png" />
       <Image url="https://cdn.alexsab.ru/cars_images/Hq_A9X6w/20260625-165728/18-5b265852.png" />
     </Images>
-    <Generation>II (2025—2026)</Generation>
-    <Modification>2.0 4WD AT (231 л.с.)</Modification>
+    <Generation>II (2021—2026)</Generation>
+    <Modification>2.0T GDI 4WD AT (231 л.с.)</Modification>
     <Complectation>GT</Complectation>
     <CarType>Новые</CarType>
     <MaxDiscount>700000</MaxDiscount>
