@@ -203,10 +203,10 @@ GAC Центр Север — ваш путь к выгодной покупке
  Адрес: г. Самара, 24 км Московского шоссе, д.3, стр.1 (напротив ТЦ Мега)
 GAC Центр Север — ваш путь к выгодной покупке!</Description>
 		<Price>3699000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>580000</MaxDiscount>
+		<MaxDiscount>380000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G54S1004214/41a0cf241b6d48b59634697d64f65e3b.jpg" />
