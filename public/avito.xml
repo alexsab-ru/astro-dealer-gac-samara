@@ -263,7 +263,19 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>530000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/f072fb3f690c4e465d149bd16e594275.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/572b42fe2810b75feb548ac9e02e3604.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/5291456e087e0d0fc4e8492974964c9e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/450d51780e35e60b9ffd181642240796.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/166bb04761fa8d2593381fbd78a46098.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/d75bc247cc058a7745ca536a44bf176c.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/3e357216c0d6b2d2bcb9f6d0fce45713.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/8b97c4187b2446127d3fae0f3c064478.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/7b239356fa37d57b0f68234516ca428f.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/9e092efeb89d961342079559c0276788.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1005211/727cfa0c0da0f4e714ded53198b63f81.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>GS4</Model>
 		<GenerationId>22337985</GenerationId>
@@ -1123,7 +1135,19 @@ GAC Центр Север — ваш путь к выгодной покупке
 		<InsuranceDiscount />
 		<MaxDiscount>570000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/e633f1b67d4a1ffb57a4101727cc5c6d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/f0f980fb37934acc4eb59f36cd0d3e9e.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/4ec83b43e17005612fbae7914e7d2768.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/11fcd5bcd6b99684fc82a537d98541cc.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/96c049a01884bb748289832d2cb74f95.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/d800e4adb172e1a4bfef517c563a1b18.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/280fedf5b4e972460efc8f78c6999112.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/c9493026ef2ad43a7f3dda892ec7592d.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/8353f0236c8839c5fe81429d202f0536.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/b5eb4988c8d26b07ea79305e3693eb7a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGNC3S89T1001609/84e1e8719f500e140cab906d323ed176.jpg" />
+		</Images>
 		<Make>GAC</Make>
 		<Model>S7</Model>
 		<GenerationId>22527386</GenerationId>
