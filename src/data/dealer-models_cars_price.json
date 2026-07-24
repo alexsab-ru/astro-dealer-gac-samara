@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "brand": "Gac",
+    "model": "Empow",
+    "price": 2813000,
+    "benefit": 506000
+  },
+  {
+    "brand": "Gac",
+    "model": "ДжиЭс 4 / GS4",
+    "price": 2745000,
+    "benefit": 554000
+  },
+  {
+    "brand": "Gac",
+    "model": "ДжиЭс 8 / GS8",
+    "price": 4124000,
+    "benefit": 825000
+  },
+  {
+    "brand": "Gac",
+    "model": "Эс 7 / S7",
+    "price": 5779000,
+    "benefit": 570000
+  }
+]
