@@ -64,7 +64,7 @@ ________________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>506000</MaxDiscount>
+		<MaxDiscount>511000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGBB1L8XS3147884/9821041973c432033ab2cd243a621a62.jpg" />
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>50000</InsuranceDiscount>
-		<MaxDiscount>554000</MaxDiscount>
+		<MaxDiscount>550000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAT1L59S1379113/2208a7beec33e0eb5e0470f3fc854c59.jpg" />
@@ -266,8 +266,8 @@ ________________________________________________________________________________
 		<Price>3949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount>55000</InsuranceDiscount>
-		<MaxDiscount>535000</MaxDiscount>
+		<InsuranceDiscount>60000</InsuranceDiscount>
+		<MaxDiscount>540000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G8XT1005024/2d5583627f7cbe398964e37e745130e6.jpg" />
@@ -367,8 +367,8 @@ ________________________________________________________________________________
 		<Price>3949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount>55000</InsuranceDiscount>
-		<MaxDiscount>535000</MaxDiscount>
+		<InsuranceDiscount>60000</InsuranceDiscount>
+		<MaxDiscount>540000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G86T1004629/bb4bcf258b1da1e67212479586a7c9d5.jpg" />
@@ -464,8 +464,8 @@ ________________________________________________________________________________
 		<Price>3849000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount>55000</InsuranceDiscount>
-		<MaxDiscount>535000</MaxDiscount>
+		<InsuranceDiscount>60000</InsuranceDiscount>
+		<MaxDiscount>540000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G86S1004399/dd025f75b3ad1b6d5dbc4d259099e41d.jpg" />
@@ -565,8 +565,8 @@ ________________________________________________________________________________
 		<Price>3949000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount>55000</InsuranceDiscount>
-		<MaxDiscount>535000</MaxDiscount>
+		<InsuranceDiscount>60000</InsuranceDiscount>
+		<MaxDiscount>540000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G89T1004673/6a1c0e12b04451d1ed6fe05de9b61bd8.jpg" />
@@ -666,7 +666,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>50000</InsuranceDiscount>
-		<MaxDiscount>825000</MaxDiscount>
+		<MaxDiscount>820000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G86T1061772/5861431f5e08d803c9aff4218bbf9fcd.jpg" />
@@ -766,7 +766,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>50000</InsuranceDiscount>
-		<MaxDiscount>825000</MaxDiscount>
+		<MaxDiscount>820000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G87T1062087/40ef76fcf62f8d309b463e3bdb1dba25.jpg" />
@@ -864,7 +864,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount>50000</InsuranceDiscount>
-		<MaxDiscount>825000</MaxDiscount>
+		<MaxDiscount>820000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062612/02e69c6f10f861de71774b1c3debb784.jpg" />
@@ -966,7 +966,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>750000</MaxDiscount>
+		<MaxDiscount>745000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G80T1062805/1492458449b698bfe796c97ab562f9ee.jpg" />
@@ -1067,7 +1067,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>750000</MaxDiscount>
+		<MaxDiscount>745000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G84T1062029/3edc33314deed6145df587e4089944af.jpg" />
@@ -1165,7 +1165,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>750000</MaxDiscount>
+		<MaxDiscount>745000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G85T1062721/5741159ee3c2d2f73f3506cc49f778ee.jpg" />
@@ -1265,7 +1265,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>750000</MaxDiscount>
+		<MaxDiscount>745000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G82S1058933/097bfd1db0d642533cc2e66e2af4bc85.jpg" />
@@ -1366,7 +1366,7 @@ _____________________________________________________________________________
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>750000</MaxDiscount>
+		<MaxDiscount>745000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1061283/d45ea35a22b2fb5ea454ebf256c3adae.jpg" />
@@ -1449,7 +1449,7 @@ ________________________________________________________________________________
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>570000</MaxDiscount>
+		<MaxDiscount>560000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images />
 		<Make>GAC</Make>
