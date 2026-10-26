@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channel>
+  <title>Автомобили</title>
+  <item>
+    <id>LMGAE3G50T1005569</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gb-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GB 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/0/full.webp?v=1746c806492f</image_link>
+    <price>3799000 RUB</price>
+    <sale_price>3219000 RUB</sale_price>
+    <min_price>3219000 RUB</min_price>
+    <max_price>3799000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GB, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G50T1005569</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G83T1005446</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/0/full.webp?v=612bc65573ac</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3259000 RUB</sale_price>
+    <min_price>3259000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G83T1005446</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G84T1006847</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-silver-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/0/full.webp?v=5c2649061239</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3259000 RUB</sale_price>
+    <min_price>3259000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G84T1006847</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G89T1004673</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/0/full.webp?v=606d97b2e48c</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3259000 RUB</sale_price>
+    <min_price>3259000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G89T1004673</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G89T1005421</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/0/full.webp?v=acf5c4cedde2</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3259000 RUB</sale_price>
+    <min_price>3259000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G89T1005421</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G8XT1004892</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/0/full.webp?v=12bc464d5410</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3259000 RUB</sale_price>
+    <min_price>3259000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G8XT1004892</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGAE3G8XT1006142</id>
+    <link>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS4</model>
+    <year>2026</year>
+    <title>Gac GS4 GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/0/full.webp?v=9ad30ddac2fa</image_link>
+    <price>3949000 RUB</price>
+    <sale_price>3259000 RUB</sale_price>
+    <min_price>3259000 RUB</min_price>
+    <max_price>3949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGAE3G8XT1006142</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S87T1000772</id>
+    <link>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/0/full.webp?v=23fac0fcbd83</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6155000 RUB</sale_price>
+    <min_price>6155000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>ЧЕРНЫЙ</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S87T1000772</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S88T1000747</id>
+    <link>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/0/full.webp?v=23fac0fcbd83</image_link>
+    <price>6949000 RUB</price>
+    <sale_price>6155000 RUB</sale_price>
+    <min_price>6155000 RUB</min_price>
+    <max_price>6949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>ЧЕРНЫЙ</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S88T1000747</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G53T1068085</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/0/full.webp?v=77d483514692</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4334000 RUB</sale_price>
+    <min_price>4334000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G53T1068085</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G54T1067897</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/0/full.webp?v=7cadd6d659b8</image_link>
+    <price>4549000 RUB</price>
+    <sale_price>3934000 RUB</sale_price>
+    <min_price>3934000 RUB</min_price>
+    <max_price>4549000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G54T1067897</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G5XT1068116</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GL 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/0/full.webp?v=ae3e169c23c7</image_link>
+    <price>4549000 RUB</price>
+    <sale_price>3934000 RUB</sale_price>
+    <min_price>3934000 RUB</min_price>
+    <max_price>4549000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G5XT1068116</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G81T1063042</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/0/full.webp?v=d5db6975870f</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4065000 RUB</sale_price>
+    <min_price>4065000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G81T1063042</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G81T1064594</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/0/full.webp?v=0d61dcf1e33c</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4065000 RUB</sale_price>
+    <min_price>4065000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G81T1064594</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G81T1066779</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/0/full.webp?v=8e37e6f45b4d</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4464000 RUB</sale_price>
+    <min_price>4464000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G81T1066779</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G82T1064765</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/0/full.webp?v=6f558077ab7f</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4065000 RUB</sale_price>
+    <min_price>4065000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G82T1064765</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G83T1066461</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/0/full.webp?v=8b8d9d5b9e14</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4464000 RUB</sale_price>
+    <min_price>4464000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G83T1066461</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G85T1064193</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/0/full.webp?v=7f92a119bfd2</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4065000 RUB</sale_price>
+    <min_price>4065000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G85T1064193</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G85T1066185</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/0/full.webp?v=8e37e6f45b4d</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4464000 RUB</sale_price>
+    <min_price>4464000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G85T1066185</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G86T1066535</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/0/full.webp?v=73c069e19038</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4464000 RUB</sale_price>
+    <min_price>4464000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G86T1066535</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G87T1064115</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/0/full.webp?v=c0449fe0cc6e</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4065000 RUB</sale_price>
+    <min_price>4065000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>1</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G87T1064115</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G88T1064740</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/0/full.webp?v=489343d6e3b6</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4065000 RUB</sale_price>
+    <min_price>4065000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G88T1064740</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G8XT1066974</id>
+    <link>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/0/full.webp?v=e28bc1347199</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4464000 RUB</sale_price>
+    <min_price>4464000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>2</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G8XT1066974</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+</channel>

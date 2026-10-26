@@ -1,0 +1,774 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>LMGAE3G50T1005569</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gb-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G50T1005569</vin>
+      <price>3799000</price>
+      <sale_price>3219000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>580000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS4, GB, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/0/full.webp?v=1746c806492f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/1/full.webp?v=d35975dc14a6</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/2/full.webp?v=6d6b9683a29f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/3/full.webp?v=97308db98b32</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/4/full.webp?v=9653fd0822d9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/5/full.webp?v=4dc88de16414</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/6/full.webp?v=1fbc0fc7feb7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/7/full.webp?v=a16ff809caa7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/8/full.webp?v=eca65abfca86</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/9/full.webp?v=a9766fbb6a59</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/10/full.webp?v=b24146e174ad</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/11/full.webp?v=95b845b7c011</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGAE3G83T1005446</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G83T1005446</vin>
+      <price>3949000</price>
+      <sale_price>3259000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>690000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/0/full.webp?v=612bc65573ac</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/1/full.webp?v=7cbcddd4873a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/2/full.webp?v=3c73917c35a5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/3/full.webp?v=5521041efdea</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/4/full.webp?v=9195b8f2bf2f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/5/full.webp?v=0a3e6a3c41d3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/6/full.webp?v=536c029d11ba</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/7/full.webp?v=7ed17f5c5cc7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/8/full.webp?v=1e18aef117f0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/9/full.webp?v=3323eb394c20</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/10/full.webp?v=ad331bf8deb4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/11/full.webp?v=4d1d60de312e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/12/full.webp?v=7de09ced08c3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/13/full.webp?v=ee09c19ae0f8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/14/full.webp?v=2628e8690f09</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/15/full.webp?v=8dbe46dbc6d1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/16/full.webp?v=858148c84d14</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/17/full.webp?v=6154b50e6dbf</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/18/full.webp?v=274595562cdb</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/19/full.webp?v=776f884a2545</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/20/full.webp?v=65fc54baaf0d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/21/full.webp?v=48e8d83fd035</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGAE3G84T1006847</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-silver-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G84T1006847</vin>
+      <price>3949000</price>
+      <sale_price>3259000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>690000</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/0/full.webp?v=5c2649061239</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/1/full.webp?v=1f558cc15695</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/2/full.webp?v=591be275ac34</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/3/full.webp?v=4bda387f69a3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/4/full.webp?v=e18c41783490</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/5/full.webp?v=58db95407286</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/6/full.webp?v=cbe57be1a1d1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/7/full.webp?v=98f61e987238</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/8/full.webp?v=8249981bfa74</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/9/full.webp?v=5326da052096</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/10/full.webp?v=f9eeec7f4209</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/11/full.webp?v=5791b5cbbb41</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/12/full.webp?v=534a34d786cd</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/13/full.webp?v=5abac1668f3c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/14/full.webp?v=d6760bc92d5a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/15/full.webp?v=07ec02b90d8b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/16/full.webp?v=379f43fd2b1b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G84T1006847/17/full.webp?v=f00a6406d350</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGAE3G89T1004673</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G89T1004673</vin>
+      <price>3949000</price>
+      <sale_price>3259000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>690000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/0/full.webp?v=606d97b2e48c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/1/full.webp?v=537bb278ec5f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/2/full.webp?v=45f7a1e5a3d7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/3/full.webp?v=fee343bf41a9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/4/full.webp?v=a1e8bf175c89</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/5/full.webp?v=c5d81702ade5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/6/full.webp?v=2054b16285c8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/7/full.webp?v=6d7e85dacf45</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/8/full.webp?v=fef2a97974d2</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/9/full.webp?v=8f9eacc57c0f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/10/full.webp?v=180b514c5b0e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/11/full.webp?v=2380ee71388d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1004673/12/full.webp?v=ff6f75ed4297</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGAE3G89T1005421</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G89T1005421</vin>
+      <price>3949000</price>
+      <sale_price>3259000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>690000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/0/full.webp?v=acf5c4cedde2</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/1/full.webp?v=b97d5c880edf</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/2/full.webp?v=b9c1265262dd</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/3/full.webp?v=2702714c9adc</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/4/full.webp?v=541ba109f091</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/5/full.webp?v=b5e4884f9d1b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/6/full.webp?v=e95c90b0a8f1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/7/full.webp?v=d1a9b5806145</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/8/full.webp?v=518c9b41a4bd</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/9/full.webp?v=01c1bcdf5786</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/10/full.webp?v=c2de3668331a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/11/full.webp?v=62834e483360</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/12/full.webp?v=c92ee666f643</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G89T1005421/13/full.webp?v=62e117717d6d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGAE3G8XT1004892</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G8XT1004892</vin>
+      <price>3949000</price>
+      <sale_price>3259000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>690000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/0/full.webp?v=12bc464d5410</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/1/full.webp?v=f7117a86e760</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/2/full.webp?v=fede47b5fd30</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/3/full.webp?v=5e1e297b87b0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/4/full.webp?v=6a5d9f26c337</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/5/full.webp?v=add075e35380</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/6/full.webp?v=33ae2683f5b4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/7/full.webp?v=4274c95e4052</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/8/full.webp?v=c1af5fd18b85</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/9/full.webp?v=45a461dd27d9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/10/full.webp?v=87ea1ec156cb</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/11/full.webp?v=5466e7d3b479</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/12/full.webp?v=14ac77ba4cd0</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGAE3G8XT1006142</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS4</folder_id>
+      <year>2026</year>
+      <vin>LMGAE3G8XT1006142</vin>
+      <price>3949000</price>
+      <sale_price>3259000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>690000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/0/full.webp?v=9ad30ddac2fa</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/1/full.webp?v=a77dcba3b12d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/2/full.webp?v=de5751f4c1ab</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/3/full.webp?v=e37cd7eb4638</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/4/full.webp?v=1d96707a0066</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/5/full.webp?v=c22269783f6b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/6/full.webp?v=2cb577740ae4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/7/full.webp?v=02f58addd87f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/8/full.webp?v=bb8d49a58215</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/9/full.webp?v=cd3b66949ff3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/10/full.webp?v=7afb2d258735</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/11/full.webp?v=56f08bea347a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/12/full.webp?v=e5b86550db1f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G8XT1006142/13/full.webp?v=76e3b3501688</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJF3S87T1000772</unique_id>
+      <url>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>S9</folder_id>
+      <year>2026</year>
+      <vin>LMGJF3S87T1000772</vin>
+      <price>6949000</price>
+      <sale_price>6155000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>794000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/0/full.webp?v=23fac0fcbd83</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/1/full.webp?v=725b4ace1657</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/2/full.webp?v=a569dd08abf1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/3/full.webp?v=a02bfff6a68c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/4/full.webp?v=166d87cf6598</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/5/full.webp?v=22318009f678</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/6/full.webp?v=3f787bc40c71</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/7/full.webp?v=3992fd4f90a9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/8/full.webp?v=ced29dff1d61</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/9/full.webp?v=719ac9d2456d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/10/full.webp?v=d809c7b98e14</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/11/full.webp?v=315b1a4f0e29</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/12/full.webp?v=b26cb5ee7f39</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/13/full.webp?v=86cdf53cac27</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/14/full.webp?v=760a7e91bd24</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJF3S88T1000747</unique_id>
+      <url>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>S9</folder_id>
+      <year>2026</year>
+      <vin>LMGJF3S88T1000747</vin>
+      <price>6949000</price>
+      <sale_price>6155000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>794000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/0/full.webp?v=23fac0fcbd83</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/1/full.webp?v=725b4ace1657</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/2/full.webp?v=a569dd08abf1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/3/full.webp?v=a02bfff6a68c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/4/full.webp?v=166d87cf6598</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/5/full.webp?v=22318009f678</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/6/full.webp?v=3f787bc40c71</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/7/full.webp?v=3992fd4f90a9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/8/full.webp?v=ced29dff1d61</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/9/full.webp?v=719ac9d2456d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/10/full.webp?v=d809c7b98e14</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/11/full.webp?v=315b1a4f0e29</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/12/full.webp?v=b26cb5ee7f39</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/13/full.webp?v=86cdf53cac27</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJF3S87T1000772/14/full.webp?v=760a7e91bd24</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G53T1068085</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G53T1068085</vin>
+      <price>4949000</price>
+      <sale_price>4334000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>615000</max_benefit>
+      <color>белый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/0/full.webp?v=77d483514692</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/1/full.webp?v=9564c3250c29</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/2/full.webp?v=15936060678a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/3/full.webp?v=90b9c1b3a3db</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/4/full.webp?v=9ab1952db181</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/5/full.webp?v=21f516c00987</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/6/full.webp?v=39a7a4c1f5cb</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/7/full.webp?v=9d218c1a4ffa</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/8/full.webp?v=a3de42abc85c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/9/full.webp?v=f71dce9f6409</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/10/full.webp?v=8480d061f54b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/11/full.webp?v=16c691a71200</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G53T1068085/12/full.webp?v=0768ba91204f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G54T1067897</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-gray-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G54T1067897</vin>
+      <price>4549000</price>
+      <sale_price>3934000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>615000</max_benefit>
+      <color>серый</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/0/full.webp?v=7cadd6d659b8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/1/full.webp?v=5d613b28eae9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/2/full.webp?v=8e295ffab132</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/3/full.webp?v=ff3f8216adc3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/4/full.webp?v=c7c252383349</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/5/full.webp?v=cab99fd7e2ff</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/6/full.webp?v=e32e70cd5bca</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/7/full.webp?v=b8102972d8f8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/8/full.webp?v=b4d734f0a66d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/9/full.webp?v=4664624f63b4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/10/full.webp?v=6a907b11fbcd</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G54T1067897/11/full.webp?v=d502ea257ff2</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G5XT1068116</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G5XT1068116</vin>
+      <price>4549000</price>
+      <sale_price>3934000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>615000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/0/full.webp?v=ae3e169c23c7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/1/full.webp?v=00800c810842</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/2/full.webp?v=ced6765b1372</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/3/full.webp?v=7fec86aaa5a5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/4/full.webp?v=70555ece122b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/5/full.webp?v=5cfe94487eaa</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/6/full.webp?v=782a396b8fc9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/7/full.webp?v=d800088c4856</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/8/full.webp?v=74f21d912233</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/9/full.webp?v=23bb4c329ec3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/10/full.webp?v=0b0d258cf0dc</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/11/full.webp?v=de1682813372</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/12/full.webp?v=5b7208c2d878</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G5XT1068116/13/full.webp?v=0cfade7f039b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G81T1063042</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G81T1063042</vin>
+      <price>4949000</price>
+      <sale_price>4065000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/0/full.webp?v=d5db6975870f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/1/full.webp?v=eef13c44e726</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/2/full.webp?v=9f1765010cfd</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/3/full.webp?v=3b2ba0d4027c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/4/full.webp?v=e6adaa57622b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/5/full.webp?v=24570367d0f2</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/6/full.webp?v=cf0c84d7bac4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/7/full.webp?v=37d364c80a55</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/8/full.webp?v=0dd72a9af832</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/9/full.webp?v=a6f3e1f4e101</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/10/full.webp?v=4cbf18762052</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/11/full.webp?v=447fb3019d5f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1063042/12/full.webp?v=4186da2dfe35</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G81T1064594</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G81T1064594</vin>
+      <price>4949000</price>
+      <sale_price>4065000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/0/full.webp?v=0d61dcf1e33c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/1/full.webp?v=ccf8eaad973f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/2/full.webp?v=11a71d23fd0e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/3/full.webp?v=50c9995421bf</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/4/full.webp?v=d017cfc84f72</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/5/full.webp?v=40005e321897</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/6/full.webp?v=4164d58daa7c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/7/full.webp?v=0747f646ed3a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/8/full.webp?v=258d47a11e83</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/9/full.webp?v=a5cde672ca4f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/10/full.webp?v=5a980f032419</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/11/full.webp?v=34b1063722c5</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G81T1066779</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-gray-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G81T1066779</vin>
+      <price>5349000</price>
+      <sale_price>4464000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>885000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/0/full.webp?v=8e37e6f45b4d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/1/full.webp?v=6b38269a6d75</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/2/full.webp?v=01110109890a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/3/full.webp?v=9fbd96086d8a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/4/full.webp?v=6846d936d010</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/5/full.webp?v=bb4d88f0db83</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/6/full.webp?v=ba9e51ca0c0c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/7/full.webp?v=151453f1aaa8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/8/full.webp?v=6a89b6e1c0a0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/9/full.webp?v=14a56ca5c980</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/10/full.webp?v=aa1381a12bcf</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/11/full.webp?v=9f6b4b9ad2a4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G82T1064765</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G82T1064765</vin>
+      <price>4949000</price>
+      <sale_price>4065000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/0/full.webp?v=6f558077ab7f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/1/full.webp?v=5a49ba767c32</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/2/full.webp?v=4aaabd447ec0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/3/full.webp?v=91f930bbca8f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/4/full.webp?v=bee20b6ef609</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/5/full.webp?v=4c9c3df09c3b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/6/full.webp?v=8396019a52c8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/7/full.webp?v=6dda2f17c5b7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/8/full.webp?v=daca983b9de5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/9/full.webp?v=c9ab2113daae</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/10/full.webp?v=35eca75fea05</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G82T1064765/11/full.webp?v=98edefe6a73c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G83T1066461</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G83T1066461</vin>
+      <price>5349000</price>
+      <sale_price>4464000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>885000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/0/full.webp?v=8b8d9d5b9e14</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/1/full.webp?v=7872802a2175</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/2/full.webp?v=0f34e8091cc1</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/3/full.webp?v=9f1441ee28c7</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/4/full.webp?v=01f449c106e0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/5/full.webp?v=081cef255928</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/6/full.webp?v=c289c5e306b3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/7/full.webp?v=6e77c49608dc</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/8/full.webp?v=5161d7586d1d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/9/full.webp?v=5758662f629c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/10/full.webp?v=5fce7426da32</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/11/full.webp?v=61e12ca0575a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G83T1066461/12/full.webp?v=62fc2b35f348</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G85T1064193</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G85T1064193</vin>
+      <price>4949000</price>
+      <sale_price>4065000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/0/full.webp?v=7f92a119bfd2</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/1/full.webp?v=ef129aa2dbb3</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/2/full.webp?v=e8653ba36550</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/3/full.webp?v=5be46a770719</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/4/full.webp?v=a7573538856b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/5/full.webp?v=c0b6d978de23</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/6/full.webp?v=6e2ae58ab291</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/7/full.webp?v=bca85fc429db</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/8/full.webp?v=fcc83ccbd535</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/9/full.webp?v=32d2ec93e639</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/10/full.webp?v=93469375939c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/11/full.webp?v=2b7c9294fceb</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G85T1066185</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-gray-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G85T1066185</vin>
+      <price>5349000</price>
+      <sale_price>4464000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>885000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/0/full.webp?v=8e37e6f45b4d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/1/full.webp?v=6b38269a6d75</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/2/full.webp?v=01110109890a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/3/full.webp?v=9fbd96086d8a</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/4/full.webp?v=6846d936d010</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/5/full.webp?v=bb4d88f0db83</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/6/full.webp?v=ba9e51ca0c0c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/7/full.webp?v=151453f1aaa8</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/8/full.webp?v=6a89b6e1c0a0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/9/full.webp?v=14a56ca5c980</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/10/full.webp?v=aa1381a12bcf</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G81T1066779/11/full.webp?v=9f6b4b9ad2a4</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G86T1066535</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G86T1066535</vin>
+      <price>5349000</price>
+      <sale_price>4464000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>885000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/0/full.webp?v=73c069e19038</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/1/full.webp?v=b7a93de220e9</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/2/full.webp?v=735104a7b829</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/3/full.webp?v=ed3e73378570</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/4/full.webp?v=3dd5aa267502</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/5/full.webp?v=64c819fa8e66</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/6/full.webp?v=f4ea448fcf02</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/7/full.webp?v=a713d40599aa</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/8/full.webp?v=d055ec906590</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/9/full.webp?v=2745e9de28a5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/10/full.webp?v=b740e4a0e30b</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/11/full.webp?v=fa6f332f3b11</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G86T1066535/12/full.webp?v=c635e269a71c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G87T1064115</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G87T1064115</vin>
+      <price>4949000</price>
+      <sale_price>4065000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884000</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/0/full.webp?v=c0449fe0cc6e</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/1/full.webp?v=1bc51329dc79</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/2/full.webp?v=67c5d442a65d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/3/full.webp?v=e5ec3ad0de02</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/4/full.webp?v=06735bdacf9d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/5/full.webp?v=82a9a895c2e0</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/6/full.webp?v=2faf2ae21b84</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/7/full.webp?v=7560f957d500</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/8/full.webp?v=4d4d6a659ae6</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/9/full.webp?v=c80ab8e3a557</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/10/full.webp?v=49969b32c752</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G87T1064115/11/full.webp?v=fae036c42b2c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G88T1064740</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G88T1064740</vin>
+      <price>4949000</price>
+      <sale_price>4065000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>884000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/0/full.webp?v=489343d6e3b6</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/1/full.webp?v=811d786aaf70</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/2/full.webp?v=9ebe2750ebcb</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/3/full.webp?v=2883b4fe38c5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/4/full.webp?v=afea112e157d</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/5/full.webp?v=a69e1be30aed</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/6/full.webp?v=2486f9bd1942</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/7/full.webp?v=08cb3ed0bdf5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/8/full.webp?v=a53d76c7e694</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/9/full.webp?v=198c62ee67aa</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/10/full.webp?v=84f7b0d8d295</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/11/full.webp?v=5cc56098e108</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G88T1064740/12/full.webp?v=09523c95dfb1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LMGJU3G8XT1066974</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G8XT1066974</vin>
+      <price>5349000</price>
+      <sale_price>4464000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>885000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/0/full.webp?v=e28bc1347199</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/1/full.webp?v=756dc91b30ae</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/2/full.webp?v=8705ff0a52e4</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/3/full.webp?v=dfdf588aea91</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/4/full.webp?v=cffac5ffc479</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/5/full.webp?v=8e6de2401d3f</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/6/full.webp?v=b8e0e04827ea</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/7/full.webp?v=475ca2dc37a5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/8/full.webp?v=940cec812f2c</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/9/full.webp?v=3fdff7646aa5</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/10/full.webp?v=8f8e5471b741</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/11/full.webp?v=409fc9d4f208</image>
+        <image>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGJU3G8XT1066974/12/full.webp?v=5297ec503cea</image>
+      </images>
+    </car>
+  </cars>
+</data>
