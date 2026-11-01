@@ -10,8 +10,8 @@
     <title>Gac GS4 GB 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/0/full.webp?v=1746c806492f</image_link>
     <price>3799000 RUB</price>
-    <sale_price>3214000 RUB</sale_price>
-    <min_price>3214000 RUB</min_price>
+    <sale_price>3414000 RUB</sale_price>
+    <min_price>3414000 RUB</min_price>
     <max_price>3799000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Gac GS4, GB, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
@@ -214,7 +214,7 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LMGJU3G53T1068085</vin>
-    <availability>на заказ</availability>
+    <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>

@@ -9,10 +9,10 @@
       <year>2026</year>
       <vin>LMGAE3G50T1005569</vin>
       <price>3799000</price>
-      <sale_price>3214000</sale_price>
+      <sale_price>3414000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>585000</max_benefit>
+      <max_benefit>385000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -291,6 +291,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>605000</max_benefit>
       <color>белый</color>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <run>1</run>
       <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
