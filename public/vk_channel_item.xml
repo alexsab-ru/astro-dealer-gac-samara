@@ -170,30 +170,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJF3S88T1000747</id>
-    <link>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
-    <brand>Gac</brand>
-    <model>S9</model>
-    <year>2026</year>
-    <title>Gac S9 SX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/0/full.webp?v=6aa6ae46e40f</image_link>
-    <price>7049000 RUB</price>
-    <sale_price>6255000 RUB</sale_price>
-    <min_price>6255000 RUB</min_price>
-    <max_price>7049000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>ЧЕРНЫЙ</exterior_color>
-    <mileage>
-      <value>1</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJF3S88T1000747</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJU3G53T1068085</id>
     <link>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</link>
     <brand>Gac</brand>
