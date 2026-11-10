@@ -343,40 +343,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGJU3G80T1068507</unique_id>
-      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G80T1068507</vin>
-      <price>5349000</price>
-      <sale_price>4404000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>945000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>2</run>
-      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/0/full.webp?v=c2c8333a3fcf</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/1/full.webp?v=fd624fc9d2fb</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/2/full.webp?v=5819999728a4</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/3/full.webp?v=7ca7e23d705f</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/4/full.webp?v=ad359994bb44</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/5/full.webp?v=133411f38d94</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/6/full.webp?v=b78239d989ce</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/7/full.webp?v=a8dc12f05648</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/8/full.webp?v=85f1da76c54d</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/9/full.webp?v=3a5e4f093efa</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/10/full.webp?v=96edf2c54ad1</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/11/full.webp?v=6e0c6ee9ee85</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/12/full.webp?v=5cb1ccd4856b</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G80T1068507/13/full.webp?v=260548232726</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGJU3G81T1064594</unique_id>
       <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
       <mark_id>Gac</mark_id>
