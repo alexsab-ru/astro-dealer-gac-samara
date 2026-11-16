@@ -214,6 +214,36 @@
       </images>
     </car>
     <car>
+      <unique_id>LMGJF3S88T1000747</unique_id>
+      <url>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>S9</folder_id>
+      <year>2026</year>
+      <vin>LMGJF3S88T1000747</vin>
+      <price>7049000</price>
+      <sale_price>6255000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>794000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>2</run>
+      <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/0/full.webp?v=6aa6ae46e40f</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/1/full.webp?v=69ec7e11e2e9</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/2/full.webp?v=a262dd7b9b13</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/3/full.webp?v=a2e508d92476</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/4/full.webp?v=91e536369c84</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/5/full.webp?v=c9eb6d67288e</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/6/full.webp?v=71a26fa44636</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/7/full.webp?v=ac451c08af76</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/8/full.webp?v=028f8e0a8518</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/9/full.webp?v=d6ff5e2a409a</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGJU3G53T1068085</unique_id>
       <url>https://gac-samara.ru/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</url>
       <mark_id>Gac</mark_id>
