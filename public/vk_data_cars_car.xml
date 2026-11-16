@@ -241,6 +241,7 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/7/full.webp?v=ac451c08af76</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/8/full.webp?v=028f8e0a8518</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/9/full.webp?v=d6ff5e2a409a</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJF3S88T1000747/10/full.webp?v=4e90ff2e3346</image>
       </images>
     </car>
     <car>
@@ -387,7 +388,7 @@
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>2</run>
+      <run>3</run>
       <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1064594/0/full.webp?v=730ef83120d0</image>
@@ -503,38 +504,6 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1066959/11/full.webp?v=48f3beb406f9</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1066959/12/full.webp?v=bf2b0027aa52</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1066959/13/full.webp?v=b81f43e9e885</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G85T1064193</unique_id>
-      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G85T1064193</vin>
-      <price>4949000</price>
-      <sale_price>4139000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>810000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>2</run>
-      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/0/full.webp?v=ee960b4ba55d</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/1/full.webp?v=ef129aa2dbb3</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/2/full.webp?v=e8653ba36550</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/3/full.webp?v=5be46a770719</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/4/full.webp?v=a7573538856b</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/5/full.webp?v=c0b6d978de23</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/6/full.webp?v=6e2ae58ab291</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/7/full.webp?v=bca85fc429db</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/8/full.webp?v=fcc83ccbd535</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/9/full.webp?v=32d2ec93e639</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/10/full.webp?v=93469375939c</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G85T1064193/11/full.webp?v=2b7c9294fceb</image>
       </images>
     </car>
     <car>
