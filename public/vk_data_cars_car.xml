@@ -181,39 +181,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGAE3G8XT1004892</unique_id>
-      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS4</folder_id>
-      <year>2026</year>
-      <vin>LMGAE3G8XT1004892</vin>
-      <price>3949000</price>
-      <sale_price>3264000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>685000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>1</run>
-      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/0/full.webp?v=703522a2f9a8</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/1/full.webp?v=f7117a86e760</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/2/full.webp?v=fede47b5fd30</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/3/full.webp?v=5e1e297b87b0</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/4/full.webp?v=6a5d9f26c337</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/5/full.webp?v=187893d8eb44</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/6/full.webp?v=bcde5206a84e</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/7/full.webp?v=d7c8e6dffe32</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/8/full.webp?v=e10a681179fe</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/9/full.webp?v=3108d89d29a2</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/10/full.webp?v=750eb8d37ec1</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/11/full.webp?v=0e49cbb38e5e</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G8XT1004892/12/full.webp?v=f61fd5c5661e</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGJF3S88T1000747</unique_id>
       <url>https://gac-samara.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
       <mark_id>Gac</mark_id>
@@ -392,6 +359,8 @@
       <images>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/0/full.webp?v=7490740b3d66</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/1/full.webp?v=5210dad18570</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/2/full.webp?v=259fb3546f32</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/3/full.webp?v=5f315204f946</image>
       </images>
     </car>
     <car>
@@ -447,6 +416,8 @@
       <images>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/0/full.webp?v=b3b902d7ee0c</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/1/full.webp?v=fb20f3753678</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/2/full.webp?v=3f97192f48c5</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/3/full.webp?v=14309e4d92fc</image>
       </images>
     </car>
     <car>
