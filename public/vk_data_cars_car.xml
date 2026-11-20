@@ -9,10 +9,10 @@
       <year>2026</year>
       <vin>LMGAE3G50T1005569</vin>
       <price>3799000</price>
-      <sale_price>3209000</sale_price>
+      <sale_price>3199000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>590000</max_benefit>
+      <max_benefit>600000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -41,10 +41,10 @@
       <year>2026</year>
       <vin>LMGAE3G83T1005446</vin>
       <price>3949000</price>
-      <sale_price>3269000</sale_price>
+      <sale_price>3264000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>680000</max_benefit>
+      <max_benefit>685000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -83,10 +83,10 @@
       <year>2026</year>
       <vin>LMGAE3G84T1006847</vin>
       <price>3949000</price>
-      <sale_price>3269000</sale_price>
+      <sale_price>3264000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>680000</max_benefit>
+      <max_benefit>685000</max_benefit>
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -121,10 +121,10 @@
       <year>2026</year>
       <vin>LMGAE3G89T1004673</vin>
       <price>3949000</price>
-      <sale_price>3269000</sale_price>
+      <sale_price>3264000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>680000</max_benefit>
+      <max_benefit>685000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -154,10 +154,10 @@
       <year>2026</year>
       <vin>LMGAE3G89T1005421</vin>
       <price>3949000</price>
-      <sale_price>3269000</sale_price>
+      <sale_price>3264000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>680000</max_benefit>
+      <max_benefit>685000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -188,10 +188,10 @@
       <year>2026</year>
       <vin>LMGAE3G8XT1004892</vin>
       <price>3949000</price>
-      <sale_price>3269000</sale_price>
+      <sale_price>3264000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>680000</max_benefit>
+      <max_benefit>685000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -252,10 +252,10 @@
       <year>2026</year>
       <vin>LMGJU3G53T1068085</vin>
       <price>4549000</price>
-      <sale_price>3688000</sale_price>
+      <sale_price>3678000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>861000</max_benefit>
+      <max_benefit>871000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -285,10 +285,10 @@
       <year>2026</year>
       <vin>LMGJU3G54T1067897</vin>
       <price>4549000</price>
-      <sale_price>3688000</sale_price>
+      <sale_price>3678000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>861000</max_benefit>
+      <max_benefit>871000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -317,10 +317,10 @@
       <year>2026</year>
       <vin>LMGJU3G55T1067844</vin>
       <price>4549000</price>
-      <sale_price>3688000</sale_price>
+      <sale_price>3678000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>861000</max_benefit>
+      <max_benefit>871000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -347,10 +347,10 @@
       <year>2026</year>
       <vin>LMGJU3G5XT1068116</vin>
       <price>4549000</price>
-      <sale_price>3688000</sale_price>
+      <sale_price>3678000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>861000</max_benefit>
+      <max_benefit>871000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -374,6 +374,27 @@
       </images>
     </car>
     <car>
+      <unique_id>LMGJU3G81T1065048</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G81T1065048</vin>
+      <price>5349000</price>
+      <sale_price>4354000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>995000</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/0/full.webp?v=7490740b3d66</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/1/full.webp?v=5210dad18570</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGJU3G82T1066998</unique_id>
       <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</url>
       <mark_id>Gac</mark_id>
@@ -381,10 +402,10 @@
       <year>2026</year>
       <vin>LMGJU3G82T1066998</vin>
       <price>5349000</price>
-      <sale_price>4404000</sale_price>
+      <sale_price>4354000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>945000</max_benefit>
+      <max_benefit>995000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -408,6 +429,27 @@
       </images>
     </car>
     <car>
+      <unique_id>LMGJU3G83T1065228</unique_id>
+      <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G83T1065228</vin>
+      <price>5349000</price>
+      <sale_price>4354000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>995000</max_benefit>
+      <color>черный</color>
+      <body_type>Внедорожник</body_type>
+      <run>1</run>
+      <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/0/full.webp?v=b3b902d7ee0c</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/1/full.webp?v=fb20f3753678</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGJU3G83T1066461</unique_id>
       <url>https://gac-samara.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</url>
       <mark_id>Gac</mark_id>
@@ -415,10 +457,10 @@
       <year>2026</year>
       <vin>LMGJU3G83T1066461</vin>
       <price>5349000</price>
-      <sale_price>4404000</sale_price>
+      <sale_price>4354000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>945000</max_benefit>
+      <max_benefit>995000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -448,10 +490,10 @@
       <year>2026</year>
       <vin>LMGJU3G83T1066959</vin>
       <price>5349000</price>
-      <sale_price>4404000</sale_price>
+      <sale_price>4354000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>945000</max_benefit>
+      <max_benefit>995000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -482,10 +524,10 @@
       <year>2026</year>
       <vin>LMGJU3G86T1066535</vin>
       <price>5349000</price>
-      <sale_price>4404000</sale_price>
+      <sale_price>4354000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>945000</max_benefit>
+      <max_benefit>995000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -515,10 +557,10 @@
       <year>2026</year>
       <vin>LMGJU3G87T1064115</vin>
       <price>4949000</price>
-      <sale_price>4139000</sale_price>
+      <sale_price>4134000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>810000</max_benefit>
+      <max_benefit>815000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -547,10 +589,10 @@
       <year>2026</year>
       <vin>LMGJU3G89T1066349</vin>
       <price>5349000</price>
-      <sale_price>4404000</sale_price>
+      <sale_price>4354000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>945000</max_benefit>
+      <max_benefit>995000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
