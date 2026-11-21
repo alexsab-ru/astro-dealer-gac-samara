@@ -353,6 +353,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>995000</max_benefit>
       <color>черный</color>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <run>1</run>
       <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
@@ -361,6 +362,8 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/1/full.webp?v=5210dad18570</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/2/full.webp?v=259fb3546f32</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/3/full.webp?v=5f315204f946</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/4/full.webp?v=b69fd746b8e9</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/5/full.webp?v=95f317bf10b9</image>
       </images>
     </car>
     <car>
@@ -410,6 +413,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>995000</max_benefit>
       <color>черный</color>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <run>1</run>
       <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
@@ -418,6 +422,8 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/1/full.webp?v=fb20f3753678</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/2/full.webp?v=3f97192f48c5</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/3/full.webp?v=14309e4d92fc</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/4/full.webp?v=39521cb936fd</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/5/full.webp?v=9e21160ac3b7</image>
       </images>
     </car>
     <car>
