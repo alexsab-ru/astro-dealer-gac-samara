@@ -34,48 +34,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGAE3G83T1005446</unique_id>
-      <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS4</folder_id>
-      <year>2026</year>
-      <vin>LMGAE3G83T1005446</vin>
-      <price>3949000</price>
-      <sale_price>3264000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>685000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>1</run>
-      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/0/full.webp?v=871bb7767830</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/1/full.webp?v=7cbcddd4873a</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/2/full.webp?v=3c73917c35a5</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/3/full.webp?v=5521041efdea</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/4/full.webp?v=9195b8f2bf2f</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/5/full.webp?v=0a3e6a3c41d3</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/6/full.webp?v=536c029d11ba</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/7/full.webp?v=7ed17f5c5cc7</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/8/full.webp?v=1e18aef117f0</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/9/full.webp?v=3323eb394c20</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/10/full.webp?v=ad331bf8deb4</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/11/full.webp?v=4d1d60de312e</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/12/full.webp?v=7de09ced08c3</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/13/full.webp?v=ee09c19ae0f8</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/14/full.webp?v=2628e8690f09</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/15/full.webp?v=8dbe46dbc6d1</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/16/full.webp?v=858148c84d14</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/17/full.webp?v=6154b50e6dbf</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/18/full.webp?v=274595562cdb</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/19/full.webp?v=776f884a2545</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/20/full.webp?v=65fc54baaf0d</image>
-        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G83T1005446/21/full.webp?v=48e8d83fd035</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGAE3G84T1006847</unique_id>
       <url>https://gac-samara.ru/cars/gac-gs4-20-at-231-hp-4wd-gl-silver-2026/</url>
       <mark_id>Gac</mark_id>
@@ -368,6 +326,8 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/7/full.webp?v=99f6f29a344d</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/8/full.webp?v=03899a9573a4</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/9/full.webp?v=0b19a3d96a53</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/10/full.webp?v=7687f0560a03</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/11/full.webp?v=c9f637a74955</image>
       </images>
     </car>
     <car>
@@ -432,6 +392,8 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/7/full.webp?v=edddfcbad80a</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/8/full.webp?v=64a9907ce428</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/9/full.webp?v=36f1faac63a9</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/10/full.webp?v=4fcadf974ed8</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/11/full.webp?v=785f0871ace9</image>
       </images>
     </car>
     <car>
