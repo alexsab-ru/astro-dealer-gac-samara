@@ -16,7 +16,7 @@
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>2</run>
+      <run>3</run>
       <description>Автомобиль Gac GS4, GB, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGAE3G50T1005569/0/full.webp?v=374335ef6ce6</image>
@@ -328,6 +328,8 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/9/full.webp?v=0b19a3d96a53</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/10/full.webp?v=7687f0560a03</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/11/full.webp?v=c9f637a74955</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/12/full.webp?v=c27dcce2cf62</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G81T1065048/13/full.webp?v=7af802bec8f3</image>
       </images>
     </car>
     <car>
@@ -394,6 +396,7 @@
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/9/full.webp?v=36f1faac63a9</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/10/full.webp?v=4fcadf974ed8</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/11/full.webp?v=785f0871ace9</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G83T1065228/12/full.webp?v=e51fda9c9265</image>
       </images>
     </car>
     <car>
