@@ -67,8 +67,8 @@ ________________________________________________________________________________
 		<Price>3799000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>600000</MaxDiscount>
+		<InsuranceDiscount>50000</InsuranceDiscount>
+		<MaxDiscount>650000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGAE3G50T1005569/bccb3ddbd9a0cfc5021d5d0dc1f6870b.jpg" />
@@ -912,9 +912,11 @@ _____________________________________________________________________________
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/a5dfca5bad8b5110f7333fb19b04bed0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/83b8261169880923ed1ba2658cf74fa4.jpeg" />
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/f5075bd50252a5f41036c17d08006685.jpeg" />
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/34944047b2ab628fd0b11583dce5103f.jpeg" />
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/a507c78e5778e40a29d74beeb234f378.jpeg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/e7599ec59a1c4855f7be83d5fd3e9182.jpeg" />
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/18e0ccd8458e145f95354655dcd18c0d.jpeg" />
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/4ed03db4ca0a63e6ef0dd9cbbb026f8c.jpg" />
 			<Image url="https://photo.toyotasever.ru/LMGJU3G55T1067844/ce2457523debe6af266528cbc5ce6847.jpg" />
@@ -1145,7 +1147,7 @@ _____________________________________________________________________________
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>a5bc5ac8a411deb2d6c673a56b02bb44</Id>
+		<Id>4bf786dc4aa641aec41c40b51cf400f2</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -1216,20 +1218,18 @@ _____________________________________________________________________________
 		<MaxDiscount>995000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/ab8024ca889139953fe33cd3743bf0d2.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/780e448d0b0839a6a7b80fc8ce1c3d48.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/6d324ef7e02fbb915602470408c45ec0.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/fc40ebddd3b6675785b89d96282d3cdd.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/ee2284b718ddb262dd3418edd20b2d58.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/aeb6d6255152c28cda07c714eccfef3b.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/ff1545cf4fc090cab1a40ae9efc4b594.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/6a609cfc91f7ac71ed59e20d96be8a6a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/bd20f2b435f030d17f36193912485614.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/2e1e640b7c9530eb852f79ec86e5feff.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/d7651a7d7fcbcc337769d50d75151ffb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/719e3bb3eb5bde433e404ca84565c219.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/5e9f46795f58a1970770e571693ea556.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/7b03a03bb2caf63497d4bb2fed7dddeb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/bb4cd03b60a77025f41e21be32508ef9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/5f9410b6f7a9495c4293e450f52fbb21.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/9aff9d558041a1fcef9915fc65b846b7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/c35768eb95b0497590e2560cd2cd13f9.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/8422808e4f6e099dfec62008b776b1bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/e24040336278fa75187a0a79e73d1b55.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/faa2014501158107b80f4be5a12aaf03.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/926905f5fe18808f3d57c8766a2b87de.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/2916bbbc9270157bad8caa93675243d5.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/12503b1f5de5bc4660aabdae37ef7f9a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/5a39e18f40b4a33a86e121b850360f50.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/f3294b6f710b3a84c705772f5ae1c8f7.jpg" />
 		</Images>
 		<Make>GAC</Make>
 		<Model>GS8 Dragon</Model>
@@ -1243,7 +1243,7 @@ _____________________________________________________________________________
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LMGJU3G82T1066998</VIN>
+		<VIN>LMGJU3G89T1066349</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />
@@ -1353,7 +1353,7 @@ _____________________________________________________________________________
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>4bf786dc4aa641aec41c40b51cf400f2</Id>
+		<Id>a5bc5ac8a411deb2d6c673a56b02bb44</Id>
 		<Address>г. Самара, Московское шоссе, 24-й километр, 3ст1</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -1424,18 +1424,20 @@ _____________________________________________________________________________
 		<MaxDiscount>995000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/bb4cd03b60a77025f41e21be32508ef9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/5f9410b6f7a9495c4293e450f52fbb21.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/9aff9d558041a1fcef9915fc65b846b7.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/c35768eb95b0497590e2560cd2cd13f9.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/8422808e4f6e099dfec62008b776b1bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/e24040336278fa75187a0a79e73d1b55.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/faa2014501158107b80f4be5a12aaf03.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/926905f5fe18808f3d57c8766a2b87de.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/2916bbbc9270157bad8caa93675243d5.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/12503b1f5de5bc4660aabdae37ef7f9a.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/5a39e18f40b4a33a86e121b850360f50.jpg" />
-			<Image url="https://photo.toyotasever.ru/LMGJU3G89T1066349/f3294b6f710b3a84c705772f5ae1c8f7.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/ab8024ca889139953fe33cd3743bf0d2.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/780e448d0b0839a6a7b80fc8ce1c3d48.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/6d324ef7e02fbb915602470408c45ec0.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/fc40ebddd3b6675785b89d96282d3cdd.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/ee2284b718ddb262dd3418edd20b2d58.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/aeb6d6255152c28cda07c714eccfef3b.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/ff1545cf4fc090cab1a40ae9efc4b594.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/6a609cfc91f7ac71ed59e20d96be8a6a.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/bd20f2b435f030d17f36193912485614.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/2e1e640b7c9530eb852f79ec86e5feff.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/d7651a7d7fcbcc337769d50d75151ffb.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/719e3bb3eb5bde433e404ca84565c219.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/5e9f46795f58a1970770e571693ea556.jpg" />
+			<Image url="https://photo.toyotasever.ru/LMGJU3G82T1066998/7b03a03bb2caf63497d4bb2fed7dddeb.jpg" />
 		</Images>
 		<Make>GAC</Make>
 		<Model>GS8 Dragon</Model>
@@ -1449,7 +1451,7 @@ _____________________________________________________________________________
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LMGJU3G89T1066349</VIN>
+		<VIN>LMGJU3G82T1066998</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL />
 		<VideoFileURL />

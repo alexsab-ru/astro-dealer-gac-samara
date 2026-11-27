@@ -9,10 +9,10 @@
       <year>2026</year>
       <vin>LMGAE3G50T1005569</vin>
       <price>3799000</price>
-      <sale_price>3199000</sale_price>
+      <sale_price>3149000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
+      <max_benefit>650000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -253,9 +253,11 @@
       <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/0/full.webp?v=1ca8b0315c57</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/1/full.webp?v=60540bcb8ce6</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/1/full.webp?v=a33b202af6ee</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/2/full.webp?v=56badf67492d</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/3/full.webp?v=9c5ac7727b3d</image>
+        <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/5/full.webp?v=c58c03fa5e9e</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/4/full.webp?v=b2bb2cf5a4a7</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/5/full.webp?v=a498f111dbfe</image>
         <image>https://img.upspace.ru/cars/gac-samara.ru/new/LMGJU3G55T1067844/6/full.webp?v=0be4785dea7e</image>
